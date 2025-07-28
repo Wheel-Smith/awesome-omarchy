@@ -16,13 +16,90 @@ A curated collection of high-quality themes for [Omarchy](https://github.com/bas
 
 ---
 
-## Contents <!-- omit in toc -->
-- [Omarchy Themes](#omarchy-themes)
+## Contents
+- [Default Omarchy Themes](#default-omarchy-themes)
+- [Extra Omarchy Themes](#extra-omarchy-themes)
 - [Security and Contribution Notes](#security-and-contribution-notes)
 
 ---
 
-## Omarchy Themes
+## Default Omarchy Themes
+
+Omarchy ships with **nine beautiful, secure, and customizable themes** that style your desktop environment, terminal, Neovim, btop, notifications (mako), top bar (Waybar), application launcher (Walker), and lock screen (Hyprlock).
+
+> **Switch themes quickly:**  
+> ```
+> Super + Ctrl + Shift + Space
+> ```
+> **Rotate background images (for some themes):**  
+> ```
+> Super + Ctrl + Space
+> ```
+
+---
+
+### Tokyo Night
+
+![Tokyo Night](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)
+
+---
+
+### Catppuccin
+
+![Catppuccin](https://manuals.omamix.org/u/catppuccin-DEGjke.png)
+
+---
+
+### Everforest
+
+![Everforest](https://manuals.omamix.org/u/everforest-VTw7rC.png)
+
+---
+
+### Gruvbox
+
+![Gruvbox](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)
+
+---
+
+### Kanagawa
+
+![Kanagawa](https://manuals.omamix.org/u/kanagawa-qNhehU.png)
+
+---
+
+### Nord
+
+![Nord](https://manuals.omamix.org/u/nord-Rd2Y6y.png)
+
+---
+
+### Matte Black
+
+![Matte Black](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)
+
+---
+
+### Rose Pine
+
+![Rose Pine](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)
+
+---
+
+### Catppuccin Latte
+
+![Catppuccin Latte](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)
+
+---
+
+## Extra Omarchy Themes
+
+These are community-contributed themes you can add for even more choices.
+
+---
+## How to Install Themes
+
+To install any theme, run in your terminal:
 
 > **Install:**  
 > Run in your terminal:
@@ -77,10 +154,13 @@ A curated collection of high-quality themes for [Omarchy](https://github.com/bas
 
 ## Security and Contribution Notes
 
-- **Always review each theme’s README before installation** for updates and secure configuration tips.
-- To contribute new themes, open a pull request with a screenshot and link for review.
+- All theme repositories and images here are directly from trusted sources over HTTPS.
+- Always read a theme’s README before installation.
+- To contribute, submit a PR with a preview image and the GitHub repo link.
 
 ---
 
 Enjoy exploring and safely installing new looks for your Omarchy setup!
+
+[↑ Back to Contents](#contents)
 
