@@ -125,13 +125,6 @@ To install any theme, run in your terminal:
 ### [Midnight](https://github.com/JaxonWright/omarchy-midnight-theme)
 
 [![Midnight Preview](https://manuals.omamix.org/u/midnight-theme-I5HKym.png)](https://github.com/JaxonWright/omarchy-midnight-theme)
-
----
-
-### [Ristretto](https://github.com/gthelding/omarchy-ristretto-theme)
-
-[![Ristretto Preview](https://manuals.omamix.org/u/ristretto-theme-lzguc2.png)](https://github.com/gthelding/omarchy-ristretto-theme)
-
 ---
 
 ### [RetroPC](https://github.com/rondilley/omarchy-retropc-theme)
