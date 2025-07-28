@@ -80,6 +80,12 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 
 ---
 
+### Ristretto
+
+![Ristretto](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)
+
+---
+
 ### Rose Pine
 
 ![Rose Pine](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)
