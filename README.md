@@ -145,6 +145,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Solarized Osaka](https://github.com/motorsss/omarchy-solarizedosaka-theme)
+
+[![Solarized Osaka Preview](https://manuals.omamix.org/u/solarized-osaka-theme-9pnXgG.png)](https://github.com/motorsss/omarchy-solarizedosaka-theme)
+
+---
+
 ### [Synthwave '84](https://github.com/omacom-io/omarchy-synthwave84-theme/)
 
 [![Synthwave '84 Preview](https://manuals.omamix.org/u/synthwave-theme-7yHWFA.png)](https://github.com/omacom-io/omarchy-synthwave84-theme/)
