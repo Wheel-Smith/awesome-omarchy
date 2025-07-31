@@ -133,6 +133,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Rose Pine Dark](https://github.com/guilhermetk/omarchy-rose-pine-dark)
+
+[![Rose Pine Dark Preview](https://manuals.omamix.org/u/rose-pine-dark-pIMUcV.webp)](https://manuals.omamix.org/u/rose-pine-dark-pIMUcV.webp)
+
+---
+
 ### [Snow](https://github.com/bjarneo/omarchy-snow-theme)
 
 [![Snow Preview](https://manuals.omamix.org/u/snow-theme-MDtvlu.png)](https://github.com/bjarneo/omarchy-snow-theme)
