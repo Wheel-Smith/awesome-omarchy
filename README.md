@@ -145,6 +145,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
+
+[![Solarized Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
+
+---
+
 ### [Solarized](https://github.com/Gazler/omarchy-solarized-theme)
 
 [![Solarized Preview](https://manuals.omamix.org/u/solarized-theme-9OhQ7Y.png)](https://github.com/Gazler/omarchy-solarized-theme)
