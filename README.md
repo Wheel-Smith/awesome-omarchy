@@ -153,7 +153,7 @@ To install any theme, run in your terminal:
 
 ### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
-[![Osaka Jade Preview](https://raw.githubusercontent.com/Justikun/omarchy-osaka-jade-theme/main/images/preview.png)](https://github.com/Justikun/omarchy-osaka-jade-theme)
+[![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
 ---
 
