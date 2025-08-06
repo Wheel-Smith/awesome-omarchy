@@ -151,6 +151,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
+
+[![Kimiko Preview](https://private-user-images.githubusercontent.com/8854332/474208229-880ce694-3b9c-4939-a67a-98705f2f9a6b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NjAzMTEsIm5iZiI6MTc1NDQ2MDAxMSwicGF0aCI6Ii84ODU0MzMyLzQ3NDIwODIyOS04ODBjZTY5NC0zYjljLTQ5MzktYTY3YS05ODcwNWYyZjlhNmIucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDgwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA4MDZUMDYwMDExWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjUxMGE4ODdjM2U2Y2M0Y2YxMDZjZGYwMTJhZjBjMDRkYzk3ZDQ3ZDBhOTBlNGQzM2NkNTEyZjlhMDJjYjAyMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Ya2c9D0vRUr2D28-fnra2W7irymHy6fUNVlwxvMrncA)](https://github.com/krymzonn/omarchy-kimiko-theme)
+
+---
+
 ### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
 [![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
