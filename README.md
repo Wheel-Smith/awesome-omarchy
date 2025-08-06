@@ -151,6 +151,13 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
+
+[![Osaka Jade Preview](https://raw.githubusercontent.com/Justikun/omarchy-osaka-jade-theme/main/images/preview.png)](https://github.com/Justikun/omarchy-osaka-jade-theme)
+
+---
+
+
 ### [Solarized Osaka](https://github.com/motorsss/omarchy-solarizedosaka-theme)
 
 [![Solarized Osaka Preview](https://raw.githubusercontent.com/motorsss/omarchy-solarizedosaka-theme/main/images/preview.png)](https://github.com/motorsss/omarchy-solarizedosaka-theme)
