@@ -151,6 +151,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [NES](https://github.com/bjarneo/omarchy-nes-theme)
+
+[![NES](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
+
+---
+
 ### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
 [![Monochrome](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
