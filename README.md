@@ -147,19 +147,19 @@ To install any theme, run in your terminal:
 
 ### [Futurism](https://github.com/bjarneo/omarchy-futurism-theme)
 
-[![Futurism](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
+[![Futurism Preview](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
 
 ---
 
 ### [NES](https://github.com/bjarneo/omarchy-nes-theme)
 
-[![NES](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
+[![NES Preview](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
 
 ---
 
 ### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
-[![Monochrome](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
+[![Monochrome Preview](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
 ---
 
@@ -171,13 +171,19 @@ To install any theme, run in your terminal:
 
 ### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
 
-[![Solarized Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
+[![Dracula Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
 
 ---
 
 ### [Solarized](https://github.com/Gazler/omarchy-solarized-theme)
 
 [![Solarized Preview](https://manuals.omamix.org/u/solarized-theme-9OhQ7Y.png)](https://github.com/Gazler/omarchy-solarized-theme)
+
+---
+
+### [Solarized Light](https://github.com/dfrico/omarchy-solarized-light-theme)
+
+[![Solarized Light Preview](https://manuals.omamix.org/u/solarized-light2-OTGWbc.png)](https://github.com/dfrico/omarchy-solarized-light-theme)
 
 ---
 
