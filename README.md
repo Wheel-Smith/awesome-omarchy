@@ -151,6 +151,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
+
+[![Monochrome](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
+
+---
+
 ### [Snow](https://github.com/bjarneo/omarchy-snow-theme)
 
 [![Snow Preview](https://manuals.omamix.org/u/snow-theme-MDtvlu.png)](https://github.com/bjarneo/omarchy-snow-theme)
