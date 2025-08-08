@@ -145,6 +145,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Futurism](https://github.com/bjarneo/omarchy-futurism-theme)
+
+[![Futurism](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
+
+---
+
 ### [Snow](https://github.com/bjarneo/omarchy-snow-theme)
 
 [![Snow Preview](https://manuals.omamix.org/u/snow-theme-MDtvlu.png)](https://github.com/bjarneo/omarchy-snow-theme)
