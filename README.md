@@ -122,6 +122,12 @@ To install any theme, run in your terminal:
 
 ---
 
+
+### [Aura](https://github.com/bjarneo/omarchy-aura-theme)
+
+[![Ash Preview](https://github.com/bjarneo/omarchy-aura-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-aura-theme)
+
+---
 ### [Midnight](https://github.com/JaxonWright/omarchy-midnight-theme)
 
 [![Midnight Preview](https://manuals.omamix.org/u/midnight-theme-I5HKym.png)](https://github.com/JaxonWright/omarchy-midnight-theme)
