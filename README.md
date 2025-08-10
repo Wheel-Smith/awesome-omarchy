@@ -187,9 +187,33 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
+
+[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659005900881940/image.png?ex=68990391&is=6897b211&hm=ccdbb79fcfd66d6845f89aa76998f612d1e0b05d2c357a085de375c709652043&)](https://github.com/Swarnim114/omarchy-everblush-theme)
+
+---
+
+### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
+
+[![All Hollows Eve Preview](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/blob/master/assets/tools-1.webp)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
+
+---
+
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
+
+---
+
+### [Flexoki Light](https://github.com/euandeas/omarchy-flexoki-light-theme)
+
+[![Flexoki Light Preview](https://camo.githubusercontent.com/d457c1c1e12c3271d522e963cab79c509ae5cff4bb90aa8988d3ab85217e9f5f/68747470733a2f2f692e696d6775722e636f6d2f6d626f30476f532e706e67)](https://github.com/euandeas/omarchy-flexoki-light-theme)
+
+---
+
+### [Flexoki Dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
+
+[![Flexoki Dark Preview](https://camo.githubusercontent.com/5db29929ba4ba3c670dc641baff914e4b3ad1a00dd04a8337f29cf4bc0eb0b6b/68747470733a2f2f692e696d6775722e636f6d2f773463463262352e706e67)](https://github.com/euandeas/omarchy-flexoki-dark-theme)
 
 ---
 
