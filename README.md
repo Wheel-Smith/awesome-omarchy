@@ -187,6 +187,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
+
+[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659006450597918/image.png?ex=68990391&is=6897b211&hm=a1f674ddd6db9083a513f9fe51ad1e5ae53f9ea9a85da26585991d90e9f6587f&)](https://github.com/Swarnim114/omarchy-everblush-theme)
+
+---
+
 ### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 
 [![All Hollows Eve Preview](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/blob/master/assets/tools-1.webp)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
