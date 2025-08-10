@@ -187,6 +187,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
+
+[![All Hollows Eve Preview](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/blob/master/assets/tools-1.webp)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
+
+---
+
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
