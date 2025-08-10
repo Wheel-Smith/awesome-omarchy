@@ -193,6 +193,18 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Flexoki Light](https://github.com/euandeas/omarchy-flexoki-light-theme)
+
+[![Flexoki Light Preview](https://camo.githubusercontent.com/fbd67f783c4fe1f09722a4447749e4a32190738c0d59d42206273a87d97a2c43/68747470733a2f2f692e696d6775722e636f6d2f6469616956754f2e6a706567)](https://github.com/euandeas/omarchy-flexoki-light-theme)
+
+---
+
+### [Flexoki Dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
+
+[![Flexoki Dark Preview](https://camo.githubusercontent.com/5db29929ba4ba3c670dc641baff914e4b3ad1a00dd04a8337f29cf4bc0eb0b6b/68747470733a2f2f692e696d6775722e636f6d2f773463463262352e706e67)](https://github.com/euandeas/omarchy-flexoki-dark-theme)
+
+---
+
 ### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
 [![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
