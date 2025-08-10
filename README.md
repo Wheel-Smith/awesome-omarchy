@@ -195,7 +195,7 @@ To install any theme, run in your terminal:
 
 ### [Flexoki Light](https://github.com/euandeas/omarchy-flexoki-light-theme)
 
-[![Flexoki Light Preview](https://camo.githubusercontent.com/fbd67f783c4fe1f09722a4447749e4a32190738c0d59d42206273a87d97a2c43/68747470733a2f2f692e696d6775722e636f6d2f6469616956754f2e6a706567)](https://github.com/euandeas/omarchy-flexoki-light-theme)
+[![Flexoki Light Preview](https://camo.githubusercontent.com/d457c1c1e12c3271d522e963cab79c509ae5cff4bb90aa8988d3ab85217e9f5f/68747470733a2f2f692e696d6775722e636f6d2f6d626f30476f532e706e67)](https://github.com/euandeas/omarchy-flexoki-light-theme)
 
 ---
 
