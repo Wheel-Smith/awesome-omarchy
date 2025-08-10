@@ -189,7 +189,7 @@ To install any theme, run in your terminal:
 
 ### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
 
-[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659006450597918/image.png?ex=68990391&is=6897b211&hm=a1f674ddd6db9083a513f9fe51ad1e5ae53f9ea9a85da26585991d90e9f6587f&)](https://github.com/Swarnim114/omarchy-everblush-theme)
+[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659005900881940/image.png?ex=68990391&is=6897b211&hm=ccdbb79fcfd66d6845f89aa76998f612d1e0b05d2c357a085de375c709652043&)](https://github.com/Swarnim114/omarchy-everblush-theme)
 
 ---
 
