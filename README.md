@@ -254,6 +254,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Waveform Dark](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+
+[![Waveform Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403971270218879016/image.png?ex=689acf23&is=68997da3&hm=8aef3608ea399892d098ba09a2e76aecb5e4a8825547bbbed186877a0be0c679&)](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+
+---
+
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
