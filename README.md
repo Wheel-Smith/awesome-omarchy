@@ -242,6 +242,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Milkmatcha Light](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
+
+[![Milkmatcha Light Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404287213906296903/image.png?ex=689aa3e2&is=68995262&hm=aaa1c334c4d9c380512dfcd175a1faa37c78df75248d79545341bca4d15df25e&)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
+
+---
+
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
