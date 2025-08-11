@@ -236,6 +236,30 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+
+[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/blob/master/backgrounds/hg-01.jpeg?raw=true)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+
+---
+
+### [Milkmatcha Light](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
+
+[![Milkmatcha Light Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404287213906296903/image.png?ex=689aa3e2&is=68995262&hm=aaa1c334c4d9c380512dfcd175a1faa37c78df75248d79545341bca4d15df25e&)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
+
+---
+
+### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
+
+[![Blueridge Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404294488184324127/476413457-bb7ad98b-eef5-48ff-8029-e385ab67d8fa.png?ex=689aaaa8&is=68995928&hm=e64527897839a02354973702236aa42eb411988b1ca5ea2ffaff037cc882dd5e&)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
+
+---
+
+### [Waveform Dark](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+
+[![Waveform Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403971270218879016/image.png?ex=689acf23&is=68997da3&hm=8aef3608ea399892d098ba09a2e76aecb5e4a8825547bbbed186877a0be0c679&)](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+
+---
+
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
