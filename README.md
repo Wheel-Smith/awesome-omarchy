@@ -119,6 +119,7 @@ To install any theme, run in your terminal:
 ### [Ash](https://github.com/bjarneo/omarchy-ash-theme)
 
 [![Ash Preview](https://manuals.omamix.org/u/ash-theme-DnGpEy.png)](https://github.com/bjarneo/omarchy-ash-theme)
+To install Ash theme, run the following command on Omarchy:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
 ```
