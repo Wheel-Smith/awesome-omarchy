@@ -236,6 +236,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+
+[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/blob/master/backgrounds/hg-01.jpeg?raw=true)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+
+---
+
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
