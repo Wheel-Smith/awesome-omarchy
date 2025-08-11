@@ -119,144 +119,217 @@ To install any theme, run in your terminal:
 ### [Ash](https://github.com/bjarneo/omarchy-ash-theme)
 
 [![Ash Preview](https://manuals.omamix.org/u/ash-theme-DnGpEy.png)](https://github.com/bjarneo/omarchy-ash-theme)
-
+To install Ash theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
+```
 ---
-
 
 ### [Aura](https://github.com/bjarneo/omarchy-aura-theme)
 
-[![Ash Preview](https://github.com/bjarneo/omarchy-aura-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-aura-theme)
-
+[![Aura Preview](https://github.com/bjarneo/omarchy-aura-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-aura-theme)
+To install Aura theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-aura-theme
+```
 ---
 ### [Midnight](https://github.com/JaxonWright/omarchy-midnight-theme)
 
 [![Midnight Preview](https://manuals.omamix.org/u/midnight-theme-I5HKym.png)](https://github.com/JaxonWright/omarchy-midnight-theme)
+To install Midnight theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/JaxonWright/omarchy-midnight-theme
+```
 ---
 
 ### [RetroPC](https://github.com/rondilley/omarchy-retropc-theme)
 
 [![RetroPC Preview](https://manuals.omamix.org/u/retropc-theme-a24vKN.png)](https://github.com/rondilley/omarchy-retropc-theme)
-
+To install RetroPC theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/rondilley/omarchy-retropc-theme
+```
 ---
 
 ### [Rose Pine Dark](https://github.com/guilhermetk/omarchy-rose-pine-dark)
 
 [![Rose Pine Dark Preview](https://manuals.omamix.org/u/rose-pine-dark-pIMUcV.webp)](https://manuals.omamix.org/u/rose-pine-dark-pIMUcV.webp)
-
+To install Rose Pine Dark theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
+```
 ---
 
 ### [Futurism](https://github.com/bjarneo/omarchy-futurism-theme)
 
 [![Futurism Preview](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
-
+To install Futurism theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-futurism-theme
+```
 ---
 
 ### [NES](https://github.com/bjarneo/omarchy-nes-theme)
 
 [![NES Preview](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
-
+To install NES theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-nes-theme
+```
 ---
 
 ### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
 [![Monochrome Preview](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
-
+To install Monochrome theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/Swarnim114/omarchy-monochrome-theme
+```
 ---
 
 ### [Snow](https://github.com/bjarneo/omarchy-snow-theme)
 
 [![Snow Preview](https://manuals.omamix.org/u/snow-theme-MDtvlu.png)](https://github.com/bjarneo/omarchy-snow-theme)
-
+To install Snow theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-snow-theme
+```
 ---
 
 ### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
 
 [![Dracula Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
-
+To install Dracula theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/catlee/omarchy-dracula-theme
+```
 ---
 
 ### [Solarized](https://github.com/Gazler/omarchy-solarized-theme)
 
 [![Solarized Preview](https://manuals.omamix.org/u/solarized-theme-9OhQ7Y.png)](https://github.com/Gazler/omarchy-solarized-theme)
-
+To install Solarized theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/Gazler/omarchy-solarized-theme
+```
 ---
 
 ### [Solarized Light](https://github.com/dfrico/omarchy-solarized-light-theme)
 
 [![Solarized Light Preview](https://manuals.omamix.org/u/solarized-light2-OTGWbc.png)](https://github.com/dfrico/omarchy-solarized-light-theme)
-
+To install Solarized Light theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/dfrico/omarchy-solarized-light-theme
+```
 ---
 
 ### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
 
 [![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659005900881940/image.png?ex=68990391&is=6897b211&hm=ccdbb79fcfd66d6845f89aa76998f612d1e0b05d2c357a085de375c709652043&)](https://github.com/Swarnim114/omarchy-everblush-theme)
-
+To install Everblush theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/dfrico/omarchy-solarized-light-theme
+```
 ---
 
 ### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 
 [![All Hollows Eve Preview](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/blob/master/assets/tools-1.webp)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
-
+To install All Hollows Eve theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/guilhermetk/omarchy-all-hallows-eve-theme
+```
 ---
 
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
-
+To install Kimiko theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/krymzonn/omarchy-kimiko-theme
+```
 ---
 
 ### [Flexoki Light](https://github.com/euandeas/omarchy-flexoki-light-theme)
 
 [![Flexoki Light Preview](https://camo.githubusercontent.com/d457c1c1e12c3271d522e963cab79c509ae5cff4bb90aa8988d3ab85217e9f5f/68747470733a2f2f692e696d6775722e636f6d2f6d626f30476f532e706e67)](https://github.com/euandeas/omarchy-flexoki-light-theme)
-
+To install Flexoki Light theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-light-theme
+```
 ---
 
 ### [Flexoki Dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
 
 [![Flexoki Dark Preview](https://camo.githubusercontent.com/5db29929ba4ba3c670dc641baff914e4b3ad1a00dd04a8337f29cf4bc0eb0b6b/68747470733a2f2f692e696d6775722e636f6d2f773463463262352e706e67)](https://github.com/euandeas/omarchy-flexoki-dark-theme)
-
+To install Flexoki Dark theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-dark-theme
+```
 ---
 
 ### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
 [![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
-
+To install Osaka Jade theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/Justikun/omarchy-osaka-jade-theme
+```
 ---
 
 
 ### [Solarized Osaka](https://github.com/motorsss/omarchy-solarizedosaka-theme)
 
 [![Solarized Osaka Preview](https://raw.githubusercontent.com/motorsss/omarchy-solarizedosaka-theme/main/images/preview.png)](https://github.com/motorsss/omarchy-solarizedosaka-theme)
-
+To install Solarized Osaka theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/motorsss/omarchy-solarizedosaka-theme
+```
 ---
 
 ### [Synthwave '84](https://github.com/omacom-io/omarchy-synthwave84-theme/)
 
 [![Synthwave '84 Preview](https://manuals.omamix.org/u/synthwave-theme-7yHWFA.png)](https://github.com/omacom-io/omarchy-synthwave84-theme/)
-
+To install Synthwave '84 theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/omacom-io/omarchy-synthwave84-theme
+```
 ---
 
 ### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 
 [![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/blob/master/backgrounds/hg-01.jpeg?raw=true)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
-
+To install Hakker Green theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/joaquinmeza/omarchy-hakker-green-theme
+```
 ---
 
 ### [Milkmatcha Light](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
 
 [![Milkmatcha Light Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404287213906296903/image.png?ex=689aa3e2&is=68995262&hm=aaa1c334c4d9c380512dfcd175a1faa37c78df75248d79545341bca4d15df25e&)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
-
+To install Milkmatcha Light theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/hipsterusername/omarchy-milkmatcha-light-theme
+```
 ---
 
 ### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
 
 [![Blueridge Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404294488184324127/476413457-bb7ad98b-eef5-48ff-8029-e385ab67d8fa.png?ex=689aaaa8&is=68995928&hm=e64527897839a02354973702236aa42eb411988b1ca5ea2ffaff037cc882dd5e&)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
-
+To install Blueridge Dark theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-theme
+```
 ---
 
 ### [Waveform Dark](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
 
 [![Waveform Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403971270218879016/image.png?ex=689acf23&is=68997da3&hm=8aef3608ea399892d098ba09a2e76aecb5e4a8825547bbbed186877a0be0c679&)](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+To install Waveform Dark theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/hipsterusername/omarchy-waveform-dark-theme
+```
 
 ---
 
