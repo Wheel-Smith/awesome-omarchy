@@ -248,6 +248,12 @@ To install any theme, run in your terminal:
 
 ---
 
+### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
+
+[![Blueridge Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404294488184324127/476413457-bb7ad98b-eef5-48ff-8029-e385ab67d8fa.png?ex=689aaaa8&is=68995928&hm=e64527897839a02354973702236aa42eb411988b1ca5ea2ffaff037cc882dd5e&)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
+
+---
+
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
