@@ -388,7 +388,7 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 
 ### [Azure Glow](https://github.com/Hydradevx/omarchy-azure-glow-theme)
 
-[![Gold Rush Preview](https://github.com/Hydradevx/omarchy-azure-glow-theme/raw/main/preview.png)](https://github.com/Hydradevx/omarchy-azure-glow-theme)
+[![Azure Glow preview](https://github.com/Hydradevx/omarchy-azure-glow-theme/raw/main/preview.png)](https://github.com/Hydradevx/omarchy-azure-glow-theme)
 To install Azure Glow theme, run the following command on Omarchy:
 ```
 omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
