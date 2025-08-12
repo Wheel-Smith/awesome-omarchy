@@ -27,11 +27,11 @@ A curated collection of high-quality themes for [Omarchy](https://github.com/bas
 
 Omarchy ships with **nine beautiful, secure, and customizable themes** that style your desktop environment, terminal, Neovim, btop, notifications (mako), top bar (Waybar), application launcher (Walker), and lock screen (Hyprlock).
 
-> **Switch themes quickly:**  
+> **Switch themes quickly:**
 > ```
 > Super + Ctrl + Shift + Space
 > ```
-> **Rotate background images (for some themes):**  
+> **Rotate background images (for some themes):**
 > ```
 > Super + Ctrl + Space
 > ```
@@ -107,7 +107,7 @@ These are community-contributed themes you can add for even more choices.
 
 To install any theme, run in your terminal:
 
-> **Install:**  
+> **Install:**
 > Run in your terminal:
 > ```
 > omarchy-theme-install [theme-github-url]
@@ -383,6 +383,15 @@ omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 To install Gold Rush theme, run the following command on Omarchy:
 ```
 omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
+```
+---
+
+### [Azure Glow](https://github.com/Hydradevx/omarchy-azure-glow-theme)
+
+[![Azure Glow preview](https://github.com/Hydradevx/omarchy-azure-glow-theme/raw/main/preview.png)](https://github.com/Hydradevx/omarchy-azure-glow-theme)
+To install Azure Glow theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 ```
 ---
 
