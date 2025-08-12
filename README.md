@@ -368,15 +368,6 @@ omarchy-theme-install https://github.com/perfektnacht/omarchy-wasteland-theme
 ```
 ---
 
-### [Azure Glow](https://github.com/Hydradevx/omarchy-azure-glow-theme)
-
-[![Azure Glow Preview](https://github.com/Hydradevx/omarchy-azure-glow-theme/blob/main/backgrounds/wallhaven-j5m21w.jpg?raw=true)](https://github.com/Hydradevx/omarchy-azure-glow-theme)
-To install Azure Glow theme, run the following command on Omarchy:
-```
-omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
-```
----
-
 ### [Gold Rush](https://github.com/tahayvr/omarchy-gold-rush-theme)
 
 [![Gold Rush Preview](https://github.com/tahayvr/omarchy-gold-rush-theme/raw/main/preview.png)](https://github.com/tahayvr/omarchy-gold-rush-theme)
