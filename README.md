@@ -330,8 +330,17 @@ To install Waveform Dark theme, run the following command on Omarchy:
 ```
 omarchy-theme-install https://github.com/hipsterusername/omarchy-waveform-dark-theme
 ```
-
 ---
+
+### [Space Monkey](https://github.com/TyRichards/omarchy-space-monkey-theme)
+
+[![Space Monkey Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404695442473615481/screenshot-2025-08-12_00-12-53.png?ex=689c2013&is=689ace93&hm=f926e90aa2d9ea56a92a2f38c60add536841f2aaa6554fff198acc4593be12a6&)](https://github.com/TyRichards/omarchy-space-monkey-theme)
+To install Waveform Dark theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
+```
+---
+
 
 ## Security and Contribution Notes
 
