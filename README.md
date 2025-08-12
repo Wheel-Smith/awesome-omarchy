@@ -377,6 +377,15 @@ omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 ```
 ---
 
+### [Gold Rush](https://github.com/tahayvr/omarchy-gold-rush-theme)
+
+[![Gold Rush Preview](https://github.com/tahayvr/omarchy-gold-rush-theme/raw/main/preview.png)](https://github.com/tahayvr/omarchy-gold-rush-theme)
+To install Gold Rush theme, run the following command on Omarchy:
+```
+omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
+```
+---
+
 
 ## Security and Contribution Notes
 
