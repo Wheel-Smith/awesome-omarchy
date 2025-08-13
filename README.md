@@ -42,7 +42,7 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 ### Tokyo Night
 
 ![Tokyo Night Preview](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)  
-Activate: `omarchy-theme-apply tokyo-night`
+Activate: ```omarchy-theme-apply tokyo-night```
 ---
 
 ### Catppuccin
