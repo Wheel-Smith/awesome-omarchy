@@ -21,8 +21,6 @@ A curated collection of high-quality themes for [Omarchy](https://github.com/bas
 - [Extra Omarchy Themes](#extra-omarchy-themes)
 - [Security and Contribution Notes](#security-and-contribution-notes)
 
----
-
 ## Default Omarchy Themes
 
 Omarchy ships with **nine beautiful, secure, and customizable themes** that style your desktop environment, terminal, Neovim, btop, notifications (mako), top bar (Waybar), application launcher (Walker), and lock screen (Hyprlock).
@@ -38,65 +36,70 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 
 ---
 
+<details>
+<summary><h2>CLICK TO EXPAND: DEFAULT THEMES LIST 👈</h2></summary>
+
 ### Tokyo Night
 
-![Tokyo Night](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)
-
+![Tokyo Night Preview](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)  
+Activate: `omarchy-theme-apply tokyo-night`
 ---
 
 ### Catppuccin
 
-![Catppuccin](https://manuals.omamix.org/u/catppuccin-DEGjke.png)
-
+![Catppuccin Preview](https://manuals.omamix.org/u/catppuccin-DEGjke.png)  
+Activate: `omarchy-theme-apply catppuccin`
 ---
 
 ### Everforest
 
-![Everforest](https://manuals.omamix.org/u/everforest-VTw7rC.png)
-
+![Everforest Preview](https://manuals.omamix.org/u/everforest-VTw7rC.png)  
+Activate: `omarchy-theme-apply everforest`
 ---
 
 ### Gruvbox
 
-![Gruvbox](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)
-
+![Gruvbox Preview](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)  
+Activate: `omarchy-theme-apply gruvbox`
 ---
 
 ### Kanagawa
 
-![Kanagawa](https://manuals.omamix.org/u/kanagawa-qNhehU.png)
-
+![Kanagawa Preview](https://manuals.omamix.org/u/kanagawa-qNhehU.png)  
+Activate: `omarchy-theme-apply kanagawa`
 ---
 
 ### Nord
 
-![Nord](https://manuals.omamix.org/u/nord-Rd2Y6y.png)
-
+![Nord Preview](https://manuals.omamix.org/u/nord-Rd2Y6y.png)  
+Activate: `omarchy-theme-apply nord`
 ---
 
 ### Matte Black
 
-![Matte Black](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)
-
+![Matte Black Preview](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)  
+Activate: `omarchy-theme-apply matte-black`
 ---
 
 ### Ristretto
 
-![Ristretto](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)
-
+![Ristretto Preview](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)  
+Activate: `omarchy-theme-apply ristretto`
 ---
 
 ### Rose Pine
 
-![Rose Pine](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)
-
+![Rose Pine Preview](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)  
+Activate: `omarchy-theme-apply rose-pine`
 ---
 
 ### Catppuccin Latte
 
-![Catppuccin Latte](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)
-
+![Catppuccin Latte Preview](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)  
+Activate: `omarchy-theme-apply catppuccin-latte`
 ---
+
+</details>
 
 ## Extra Omarchy Themes
 
