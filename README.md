@@ -103,7 +103,7 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 These are community-contributed themes you can add for even more choices.
 
 ---
-## How to Install Themes
+### How to Install Themes
 
 To install any theme, run in your terminal:
 
@@ -117,7 +117,7 @@ To install any theme, run in your terminal:
 ---
 
 <details>
-<summary><h2>CLICK TO EXPAND: EXTRA THEMES LIST</h2></summary>
+<summary><h2>CLICK TO EXPAND: EXTRA THEMES LIST 👈</h2></summary>
 
 ### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 
