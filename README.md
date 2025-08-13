@@ -424,7 +424,6 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-waveform-dark-t
 
 </details>
 
-
 ## Security and Contribution Notes
 
 - All theme repositories and images here are directly from trusted sources over HTTPS.
