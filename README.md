@@ -117,7 +117,7 @@ To install any theme, run in your terminal:
 ---
 
 <details>
-<summary>Click to view all extra themes (alphabetical order)</summary>
+<summary><h2>CLICK TO EXPAND: EXTRA THEMES LIST</h2></summary>
 
 ### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 
