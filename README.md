@@ -51,55 +51,82 @@ omarchy-theme-apply tokyo-night
 ### Catppuccin
 
 ![Catppuccin Preview](https://manuals.omamix.org/u/catppuccin-DEGjke.png)  
-Activate: `omarchy-theme-apply catppuccin`
+Activate: 
+```
+omarchy-theme-apply catppuccin
+```
 ---
 
 ### Everforest
 
 ![Everforest Preview](https://manuals.omamix.org/u/everforest-VTw7rC.png)  
-Activate: `omarchy-theme-apply everforest`
+Activate: 
+```
+omarchy-theme-apply everforest
+```
 ---
 
 ### Gruvbox
 
 ![Gruvbox Preview](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)  
-Activate: `omarchy-theme-apply gruvbox`
+Activate: 
+```
+omarchy-theme-apply gruvbox
+```
 ---
 
 ### Kanagawa
 
 ![Kanagawa Preview](https://manuals.omamix.org/u/kanagawa-qNhehU.png)  
-Activate: `omarchy-theme-apply kanagawa`
+Activate: 
+```
+omarchy-theme-apply kanagawa
+```
 ---
 
 ### Nord
 
 ![Nord Preview](https://manuals.omamix.org/u/nord-Rd2Y6y.png)  
-Activate: `omarchy-theme-apply nord`
+Activate: 
+```
+omarchy-theme-apply nord
+```
 ---
 
 ### Matte Black
 
 ![Matte Black Preview](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)  
-Activate: `omarchy-theme-apply matte-black`
+Activate: 
+```
+omarchy-theme-apply matte-black
+```
 ---
 
 ### Ristretto
 
 ![Ristretto Preview](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)  
-Activate: `omarchy-theme-apply ristretto`
+Activate: 
+```
+omarchy-theme-apply ristretto
+```
 ---
 
 ### Rose Pine
 
 ![Rose Pine Preview](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)  
-Activate: `omarchy-theme-apply rose-pine`
+Activate: 
+```
+omarchy-theme-apply rose-pine
+```
 ---
 
 ### Catppuccin Latte
 
 ![Catppuccin Latte Preview](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)  
-Activate: `omarchy-theme-apply catppuccin-latte`
+Activate: 
+```
+omarchy-theme-apply catppuccin-latte
+```
 ---
 
 </details>
