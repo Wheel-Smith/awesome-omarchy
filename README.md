@@ -197,6 +197,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 ```
 ---
 
+### [Crimson Gold](https://github.com/knappkevin/omarchy-crimson-gold-theme)
+
+[![Crimson Gold Preview](https://github.com/knappkevin/omarchy-crimson-gold-theme/raw/main/preview.png)](https://github.com/knappkevin/omarchy-crimson-gold-theme)
+Install:
+```
+omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme
+```
+---
+
 ### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
 
 [![Dracula Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
