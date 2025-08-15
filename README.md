@@ -422,6 +422,15 @@ omarchy-theme-install https://github.com/omacom-io/omarchy-synthwave84-theme
 ```
 ---
 
+### [Tekk-o-ween](https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme)
+
+[![Tekk-o-ween Preview](https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme/raw/main/screenshots/image2.jpg)](https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme)
+Install:
+```
+omarchy-theme-install https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme
+```
+---
+
 ### [Velocity](https://github.com/perfektnacht/omarchy-velocity-theme)
 
 [![Velocity Preview](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/main/assets/velocity-desktop.png)](https://github.com/perfektnacht/omarchy-velocity-theme)
