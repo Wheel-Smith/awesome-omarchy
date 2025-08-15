@@ -190,7 +190,7 @@ omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 
 ### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
 
-[![Blueridge Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404294488184324127/476413457-bb7ad98b-eef5-48ff-8029-e385ab67d8fa.png?ex=689aaaa8&is=68995928&hm=e64527897839a02354973702236aa42eb411988b1ca5ea2ffaff037cc882dd5e&)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
+[![Blueridge Dark Preview](https://github.com/user-attachments/assets/bb7ad98b-eef5-48ff-8029-e385ab67d8fa)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-theme
@@ -208,7 +208,7 @@ omarchy-theme-install https://github.com/catlee/omarchy-dracula-theme
 
 ### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
 
-[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659005900881940/image.png?ex=68990391&is=6897b211&hm=ccdbb79fcfd66d6845f89aa76998f612d1e0b05d2c357a085de375c709652043&)](https://github.com/Swarnim114/omarchy-everblush-theme)
+[![Everblush Preview](https://github.com/Swarnim114/omarchy-everblush-theme/blob/main/backgrounds/everblush-1.jpg)](https://github.com/Swarnim114/omarchy-everblush-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/dfrico/omarchy-solarized-light-theme
@@ -298,7 +298,7 @@ omarchy-theme-install https://github.com/JaxonWright/omarchy-midnight-theme
 
 ### [Milkmatcha Light](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
 
-[![Milkmatcha Light Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404287213906296903/image.png?ex=689aa3e2&is=68995262&hm=aaa1c334c4d9c380512dfcd175a1faa37c78df75248d79545341bca4d15df25e&)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
+[![Milkmatcha Light Preview](https://github.com/user-attachments/assets/24d27cf5-ccf1-4d50-a615-c8e92f313645)](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hipsterusername/omarchy-milkmatcha-light-theme
@@ -397,7 +397,7 @@ omarchy-theme-install https://github.com/motorsss/omarchy-solarizedosaka-theme
 
 ### [Space Monkey](https://github.com/TyRichards/omarchy-space-monkey-theme)
 
-[![Space Monkey Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1404695442473615481/screenshot-2025-08-12_00-12-53.png?ex=689c2013&is=689ace93&hm=f926e90aa2d9ea56a92a2f38c60add536841f2aaa6554fff198acc4593be12a6&)](https://github.com/TyRichards/omarchy-space-monkey-theme)
+[![Space Monkey Preview](https://github.com/TyRichards/omarchy-space-monkey-theme/blob/main/theme.png)](https://github.com/TyRichards/omarchy-space-monkey-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
@@ -433,7 +433,7 @@ omarchy-theme-install https://github.com/perfektnacht/omarchy-wasteland-theme
 
 ### [Waveform Dark](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
 
-[![Waveform Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403971270218879016/image.png?ex=689acf23&is=68997da3&hm=8aef3608ea399892d098ba09a2e76aecb5e4a8825547bbbed186877a0be0c679&)](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
+[![Waveform Dark Preview](https://github.com/user-attachments/assets/f6dcde9f-28c0-41e6-a5b1-8a38a382d463)](https://github.com/hipsterusername/omarchy-waveform-dark-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hipsterusername/omarchy-waveform-dark-theme
