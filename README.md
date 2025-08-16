@@ -233,6 +233,15 @@ omarchy-theme-install https://github.com/Hydradevx/omarchy-ember-n-ash-theme
 ```
 ---
 
+### [Felix](https://github.com/TyRichards/omarchy-felix-theme)
+
+[![Felix Preview](https://github.com/TyRichards/omarchy-felix-theme/raw/main/theme.png)](https://github.com/TyRichards/omarchy-felix-theme)
+Install:
+```
+omarchy-theme-install https://github.com/TyRichards/omarchy-felix-theme
+```
+---
+
 ### [Fiery Ocean](https://github.com/bjarneo/omarchy-fiery-ocean-theme)
 
 [![Fiery Ocean Preview](https://github.com/bjarneo/omarchy-fiery-ocean-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-fiery-ocean-theme)
