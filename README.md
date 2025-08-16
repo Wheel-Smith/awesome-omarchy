@@ -341,6 +341,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-nes-theme
 ```
 ---
 
+### [One Dark Pro](https://github.com/sc0ttman/omarchy-one-dark-pro)
+
+[![One Dark Pro Preview](https://github.com/sc0ttman/omarchy-one-dark-pro/raw/main/assets/screen1.png)](https://github.com/sc0ttman/omarchy-one-dark-pro)
+Install:
+```
+omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
+```
+---
+
 ### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
 
 [![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
