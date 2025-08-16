@@ -179,6 +179,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-aura-theme
 ```
 ---
 
+### [Ayu Mirage](https://github.com/fdidron/omarchy-ayumirage)
+
+[![Ayu Mirage Preview](https://github.com/fdidron/omarchy-ayumirage/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayumirage)
+Install:
+```
+omarchy-theme-install https://github.com/fdidron/omarchy-ayumirage
+```
+---
+
 ### [Azure Glow](https://github.com/Hydradevx/omarchy-azure-glow-theme)
 
 [![Azure Glow preview](https://github.com/Hydradevx/omarchy-azure-glow-theme/raw/main/preview.png)](https://github.com/Hydradevx/omarchy-azure-glow-theme)
