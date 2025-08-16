@@ -278,6 +278,15 @@ omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-light-theme
 ```
 ---
 
+### [Forest Green](https://github.com/abhijeet-swami/omarchy-forest-green-theme)
+
+[![Forest Green Preview](https://github.com/abhijeet-swami/omarchy-forest-green/raw/main/screenshot/1.png)](https://github.com/abhijeet-swami/omarchy-forest-green-theme)
+Install:
+```
+omarchy-theme-install https://github.com/abhijeet-swami/omarchy-forest-green-theme
+```
+---
+
 ### [Futurism](https://github.com/bjarneo/omarchy-futurism-theme)
 
 [![Futurism Preview](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
