@@ -386,6 +386,15 @@ omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
 ```
 ---
 
+### [Serenity](https://github.com/bjarneo/omarchy-serenity-theme)
+
+[![Serenity Preview](https://github.com/bjarneo/omarchy-serenity-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-serenity-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-serenity-theme
+```
+---
+
 ### [Snow](https://github.com/bjarneo/omarchy-snow-theme)
 
 [![Snow Preview](https://manuals.omamix.org/u/snow-theme-MDtvlu.png)](https://github.com/bjarneo/omarchy-snow-theme)
