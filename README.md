@@ -305,6 +305,15 @@ omarchy-theme-install https://github.com/joaquinmeza/omarchy-hakker-green-theme
 ```
 ---
 
+### [Hollow Knight](https://github.com/bjarneo/omarchy-hollow-knight-theme)
+
+[![Hollow Knight](https://github.com/bjarneo/omarchy-hollow-knight-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-hollow-knight-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-hollow-knight-theme
+```
+---
+
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
