@@ -206,6 +206,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 ```
 ---
 
+### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
+
+[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
+Install:
+```
+omarchy-theme-install https://github.com/hoblin/omarchy-cobalt2-theme
+```
+---
+
 ### [Crimson Gold](https://github.com/knappkevin/omarchy-crimson-gold-theme)
 
 [![Crimson Gold Preview](https://github.com/knappkevin/omarchy-crimson-gold-theme/raw/main/preview.png)](https://github.com/knappkevin/omarchy-crimson-gold-theme)
@@ -226,7 +235,7 @@ omarchy-theme-install https://github.com/catlee/omarchy-dracula-theme
 
 ### [Everblush](https://github.com/Swarnim114/omarchy-everblush-theme)
 
-[![Everblush Preview](https://github.com/Swarnim114/omarchy-everblush-theme/blob/main/backgrounds/everblush-1.jpg)](https://github.com/Swarnim114/omarchy-everblush-theme)
+[![Everblush Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1403659005900881940/image.png?ex=68a23e11&is=68a0ec91&hm=e32b57c818559e7d29fc4e08d0f4fe48eea1195c0d94d7ad6d628793a845eb52&)](https://github.com/Swarnim114/omarchy-everblush-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/dfrico/omarchy-solarized-light-theme
