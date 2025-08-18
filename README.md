@@ -179,6 +179,24 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-aura-theme
 ```
 ---
 
+### [Ayu Dark](https://github.com/fdidron/omarchy-ayu-dark-theme)
+
+[![Ayu Dark Preview](https://github.com/fdidron/omarchy-ayu-dark-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-dark-theme)
+Install:
+```
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-dark-theme
+```
+---
+
+### [Ayu Light](https://github.com/fdidron/omarchy-ayu-light-theme)
+
+[![Ayu Light Preview](https://github.com/fdidron/omarchy-ayu-light-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-light-theme)
+Install:
+```
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light-theme
+```
+---
+
 ### [Ayu Mirage](https://github.com/fdidron/omarchy-ayumirage)
 
 [![Ayu Mirage Preview](https://github.com/fdidron/omarchy-ayumirage/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayumirage)
