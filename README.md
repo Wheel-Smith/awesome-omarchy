@@ -197,12 +197,12 @@ omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light-theme
 ```
 ---
 
-### [Ayu Mirage](https://github.com/fdidron/omarchy-ayumirage)
+### [Ayu Mirage](https://github.com/fdidron/omarchy-ayu-mirage-theme)
 
-[![Ayu Mirage Preview](https://github.com/fdidron/omarchy-ayumirage/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayumirage)
+[![Ayu Mirage Preview](https://github.com/fdidron/omarchy-ayu-mirage-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-mirage-theme)
 Install:
 ```
-omarchy-theme-install https://github.com/fdidron/omarchy-ayumirage
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-mirage-theme
 ```
 ---
 
