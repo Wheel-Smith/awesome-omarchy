@@ -179,6 +179,24 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-aura-theme
 ```
 ---
 
+### [Ayu Dark](https://github.com/fdidron/omarchy-ayu-dark-theme)
+
+[![Ayu Dark Preview](https://github.com/fdidron/omarchy-ayu-dark-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-dark-theme)
+Install:
+```
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-dark-theme
+```
+---
+
+### [Ayu Light](https://github.com/fdidron/omarchy-ayu-light-theme)
+
+[![Ayu Light Preview](https://github.com/fdidron/omarchy-ayu-light-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-light-theme)
+Install:
+```
+omarchy-theme-install https://github.com/fdidron/omarchy-ayu-light-theme
+```
+---
+
 ### [Ayu Mirage](https://github.com/fdidron/omarchy-ayumirage)
 
 [![Ayu Mirage Preview](https://github.com/fdidron/omarchy-ayumirage/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayumirage)
@@ -374,6 +392,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-milkmatcha-ligh
 Install:
 ```
 omarchy-theme-install https://github.com/Swarnim114/omarchy-monochrome-theme
+```
+---
+
+### [Monokai Dark](https://github.com/ericrswanny/omarchy-monokai-dark-theme)
+
+[![Monokai Dark Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1406641542629822636/screenshot-2025-08-17_09-02-06.png?ex=68a3dd45&is=68a28bc5&hm=bdbdad05963c6f7612824417d56c2ac1adb7d62366b3d2522b3df9c02d7d5d32&)](https://github.com/ericrswanny/omarchy-monokai-dark-theme)
+Install:
+```
+omarchy-theme-install https://github.com/ericrswanny/omarchy-monokai-dark-theme
 ```
 ---
 
