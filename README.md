@@ -152,12 +152,30 @@ To install any theme, run in your terminal:
 <details>
 <summary><h2>CLICK TO EXPAND: EXTRA THEMES LIST 👈</h2></summary>
 
+### [Alabaster](https://github.com/grierson/omarchy-alabaster-theme)
+
+[![Alabaster Preview](https://github.com/grierson/omarchy-alabaster-theme/raw/main/screenshot.png)](https://github.com/grierson/omarchy-alabaster-theme)
+Install:
+```
+omarchy-theme-install https://github.com/grierson/omarchy-alabaster-theme
+```
+---
+
 ### [All Hollows Eve](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 
 [![All Hollows Eve Preview](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme/blob/master/assets/tools-1.webp)](https://github.com/guilhermetk/omarchy-all-hallows-eve-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/guilhermetk/omarchy-all-hallows-eve-theme
+```
+---
+
+### [Anonymous](https://github.com/j4v3l/omarchy-anonymous-theme)
+
+[![Anonymous Preview](https://github.com/j4v3l/omarchy-anonymous-theme/raw/main/theme_anonymous.png)](https://github.com/j4v3l/omarchy-anonymous-theme)
+Install:
+```
+omarchy-theme-install https://github.com/j4v3l/omarchy-anonymous-theme
 ```
 ---
 
