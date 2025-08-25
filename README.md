@@ -548,6 +548,15 @@ omarchy-theme-install https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme
 ```
 ---
 
+### [Vague](https://github.com/Rnedlose/omarchy-vague-theme)
+
+[![Vague Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1409349303641571449/screenshot-2025-08-24_20-02-27.png?ex=68ad0e52&is=68abbcd2&hm=84ab8da3b7c4ebbaf224cefa31bcd3eb88b1ad15b7331f1961f6f7e1ac881878&)](https://github.com/Rnedlose/omarchy-vague-theme)
+Install:
+```
+omarchy-theme-install https://github.com/Rnedlose/omarchy-vague-theme
+```
+---
+
 ### [Velocity](https://github.com/perfektnacht/omarchy-velocity-theme)
 
 [![Velocity Preview](https://raw.githubusercontent.com/perfektnacht/omarchy-velocity-theme/main/assets/velocity-desktop.png)](https://github.com/perfektnacht/omarchy-velocity-theme)
