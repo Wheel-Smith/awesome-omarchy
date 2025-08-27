@@ -253,7 +253,7 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 
 ### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
 
-[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/ci/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
+[![Cobalt2 Preview](https://camo.githubusercontent.com/ac01ff424cf0e8a1c19c98a3d098e8e3b410c3e9af375eb1083fd774a652afc3/68747470733a2f2f686f626c2e696e2f6f6d61726368792d636f62616c74322d7468656d652d707265766965772e706e67)](https://github.com/hoblin/omarchy-cobalt2-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hoblin/omarchy-cobalt2-theme
