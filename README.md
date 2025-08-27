@@ -77,7 +77,7 @@ omarchy-theme-apply gruvbox
 
 ### Osaka Jade
 
-![Osaka Jade Preview](https://learn.omacom.io/u/gruvbox-zTUJ1I.png)
+![Osaka Jade Preview](https://learn.omacom.io/u/osaka-jade-15wLcY.jpg)
 Activate:
 ```
 omarchy-theme-apply osaka-jade
