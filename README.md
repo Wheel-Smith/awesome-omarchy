@@ -41,7 +41,7 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 
 ### Tokyo Night
 
-![Tokyo Night Preview](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)
+![Tokyo Night Preview](https://learn.omacom.io/u/tokyo-night-yN9jzd.png)
 Activate:
 ```
 omarchy-theme-apply tokyo-night
@@ -50,7 +50,7 @@ omarchy-theme-apply tokyo-night
 
 ### Catppuccin
 
-![Catppuccin Preview](https://manuals.omamix.org/u/catppuccin-DEGjke.png)
+![Catppuccin Preview](https://learn.omacom.io/u/catppuccin-DEGjke.png)
 Activate:
 ```
 omarchy-theme-apply catppuccin
@@ -59,7 +59,7 @@ omarchy-theme-apply catppuccin
 
 ### Everforest
 
-![Everforest Preview](https://manuals.omamix.org/u/everforest-VTw7rC.png)
+![Everforest Preview](https://learn.omacom.io/u/everforest-VTw7rC.png)
 Activate:
 ```
 omarchy-theme-apply everforest
@@ -68,16 +68,25 @@ omarchy-theme-apply everforest
 
 ### Gruvbox
 
-![Gruvbox Preview](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)
+![Gruvbox Preview](https://learn.omacom.io/u/gruvbox-zTUJ1I.png)
 Activate:
 ```
 omarchy-theme-apply gruvbox
 ```
 ---
 
+### Osaka Jade
+
+![Osaka Jade Preview](https://learn.omacom.io/u/gruvbox-zTUJ1I.png)
+Activate:
+```
+omarchy-theme-apply osaka-jade
+```
+---
+
 ### Kanagawa
 
-![Kanagawa Preview](https://manuals.omamix.org/u/kanagawa-qNhehU.png)
+![Kanagawa Preview](https://learn.omacom.io/u/kanagawa-qNhehU.png)
 Activate:
 ```
 omarchy-theme-apply kanagawa
@@ -86,7 +95,7 @@ omarchy-theme-apply kanagawa
 
 ### Nord
 
-![Nord Preview](https://manuals.omamix.org/u/nord-Rd2Y6y.png)
+![Nord Preview](https://learn.omacom.io/u/nord-Rd2Y6y.png)
 Activate:
 ```
 omarchy-theme-apply nord
@@ -95,7 +104,7 @@ omarchy-theme-apply nord
 
 ### Matte Black
 
-![Matte Black Preview](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)
+![Matte Black Preview](https://learn.omacom.io/u/2025-07-15-193947_hyprshot-b4lj4R.png)
 Activate:
 ```
 omarchy-theme-apply matte-black
@@ -104,7 +113,7 @@ omarchy-theme-apply matte-black
 
 ### Ristretto
 
-![Ristretto Preview](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)
+![Ristretto Preview](https://learn.omacom.io/u/ristretto-theme-c99Sux.png)
 Activate:
 ```
 omarchy-theme-apply ristretto
@@ -113,7 +122,7 @@ omarchy-theme-apply ristretto
 
 ### Rose Pine
 
-![Rose Pine Preview](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)
+![Rose Pine Preview](https://learn.omacom.io/u/omarchy-rose-pine-MUH6hH.png)
 Activate:
 ```
 omarchy-theme-apply rose-pine
@@ -122,7 +131,7 @@ omarchy-theme-apply rose-pine
 
 ### Catppuccin Latte
 
-![Catppuccin Latte Preview](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)
+![Catppuccin Latte Preview](https://learn.omacom.io/u/catppuccin-latte-theme-1-jrWCjt.png)
 Activate:
 ```
 omarchy-theme-apply catppuccin-latte
