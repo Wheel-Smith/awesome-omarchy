@@ -41,7 +41,7 @@ Omarchy ships with **nine beautiful, secure, and customizable themes** that styl
 
 ### Tokyo Night
 
-![Tokyo Night Preview](https://manuals.omamix.org/u/tokyo-night-yN9jzd.png)
+![Tokyo Night Preview](https://learn.omacom.io/u/tokyo-night-yN9jzd.png)
 Activate:
 ```
 omarchy-theme-apply tokyo-night
@@ -50,7 +50,7 @@ omarchy-theme-apply tokyo-night
 
 ### Catppuccin
 
-![Catppuccin Preview](https://manuals.omamix.org/u/catppuccin-DEGjke.png)
+![Catppuccin Preview](https://learn.omacom.io/u/catppuccin-DEGjke.png)
 Activate:
 ```
 omarchy-theme-apply catppuccin
@@ -59,7 +59,7 @@ omarchy-theme-apply catppuccin
 
 ### Everforest
 
-![Everforest Preview](https://manuals.omamix.org/u/everforest-VTw7rC.png)
+![Everforest Preview](https://learn.omacom.io/u/everforest-VTw7rC.png)
 Activate:
 ```
 omarchy-theme-apply everforest
@@ -68,16 +68,25 @@ omarchy-theme-apply everforest
 
 ### Gruvbox
 
-![Gruvbox Preview](https://manuals.omamix.org/u/gruvbox-zTUJ1I.png)
+![Gruvbox Preview](https://learn.omacom.io/u/gruvbox-zTUJ1I.png)
 Activate:
 ```
 omarchy-theme-apply gruvbox
 ```
 ---
 
+### Osaka Jade
+
+![Osaka Jade Preview](https://learn.omacom.io/u/osaka-jade-15wLcY.jpg)
+Activate:
+```
+omarchy-theme-apply osaka-jade
+```
+---
+
 ### Kanagawa
 
-![Kanagawa Preview](https://manuals.omamix.org/u/kanagawa-qNhehU.png)
+![Kanagawa Preview](https://learn.omacom.io/u/kanagawa-qNhehU.png)
 Activate:
 ```
 omarchy-theme-apply kanagawa
@@ -86,7 +95,7 @@ omarchy-theme-apply kanagawa
 
 ### Nord
 
-![Nord Preview](https://manuals.omamix.org/u/nord-Rd2Y6y.png)
+![Nord Preview](https://learn.omacom.io/u/nord-Rd2Y6y.png)
 Activate:
 ```
 omarchy-theme-apply nord
@@ -95,7 +104,7 @@ omarchy-theme-apply nord
 
 ### Matte Black
 
-![Matte Black Preview](https://manuals.omamix.org/u/2025-07-15-193947_hyprshot-b4lj4R.png)
+![Matte Black Preview](https://learn.omacom.io/u/2025-07-15-193947_hyprshot-b4lj4R.png)
 Activate:
 ```
 omarchy-theme-apply matte-black
@@ -104,7 +113,7 @@ omarchy-theme-apply matte-black
 
 ### Ristretto
 
-![Ristretto Preview](https://manuals.omamix.org/u/ristretto-theme-c99Sux.png)
+![Ristretto Preview](https://learn.omacom.io/u/ristretto-theme-c99Sux.png)
 Activate:
 ```
 omarchy-theme-apply ristretto
@@ -113,7 +122,7 @@ omarchy-theme-apply ristretto
 
 ### Rose Pine
 
-![Rose Pine Preview](https://manuals.omamix.org/u/omarchy-rose-pine-MUH6hH.png)
+![Rose Pine Preview](https://learn.omacom.io/u/omarchy-rose-pine-MUH6hH.png)
 Activate:
 ```
 omarchy-theme-apply rose-pine
@@ -122,7 +131,7 @@ omarchy-theme-apply rose-pine
 
 ### Catppuccin Latte
 
-![Catppuccin Latte Preview](https://manuals.omamix.org/u/catppuccin-latte-theme-1-jrWCjt.png)
+![Catppuccin Latte Preview](https://learn.omacom.io/u/catppuccin-latte-theme-1-jrWCjt.png)
 Activate:
 ```
 omarchy-theme-apply catppuccin-latte
@@ -181,7 +190,7 @@ omarchy-theme-install https://github.com/j4v3l/omarchy-anonymous-theme
 
 ### [Ash](https://github.com/bjarneo/omarchy-ash-theme)
 
-[![Ash Preview](https://manuals.omamix.org/u/ash-theme-DnGpEy.png)](https://github.com/bjarneo/omarchy-ash-theme)
+[![Ash Preview](https://github.com/bjarneo/omarchy-ash-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-ash-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
@@ -244,7 +253,7 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 
 ### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
 
-[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
+[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/ci/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hoblin/omarchy-cobalt2-theme
@@ -352,7 +361,7 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 
 ### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 
-[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/blob/master/backgrounds/hg-01.jpeg?raw=true)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/raw/master/screenshot-2025-08-18_12-07-35.png)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/joaquinmeza/omarchy-hakker-green-theme
@@ -437,15 +446,6 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-nes-theme
 Install:
 ```
 omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
-```
----
-
-### [Osaka Jade](https://github.com/Justikun/omarchy-osaka-jade-theme)
-
-[![Osaka Jade Preview](https://camo.githubusercontent.com/9218ac6b949095c9322fd72ce5c08d697bb463be04666d03e8bc32f0f61fae5d/68747470733a2f2f692e696d6775722e636f6d2f756177507766562e6a706567)](https://github.com/Justikun/omarchy-osaka-jade-theme)
-Install:
-```
-omarchy-theme-install https://github.com/Justikun/omarchy-osaka-jade-theme
 ```
 ---
 
