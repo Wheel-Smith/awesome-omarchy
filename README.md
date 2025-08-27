@@ -181,7 +181,7 @@ omarchy-theme-install https://github.com/j4v3l/omarchy-anonymous-theme
 
 ### [Ash](https://github.com/bjarneo/omarchy-ash-theme)
 
-[![Ash Preview](https://manuals.omamix.org/u/ash-theme-DnGpEy.png)](https://github.com/bjarneo/omarchy-ash-theme)
+[![Ash Preview](https://github.com/bjarneo/omarchy-ash-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-ash-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-ash-theme
