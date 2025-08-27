@@ -244,7 +244,7 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 
 ### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
 
-[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
+[![Cobalt2 Preview](https://cdn.discordapp.com/attachments/ci/1406555777904152687/image0.jpg?ex=68a2e4a5&is=68a19325&hm=afa107206efabec27af557a1af021f5fcc18bdffd453fe7d9938291eb87df252&)](https://github.com/hoblin/omarchy-cobalt2-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/hoblin/omarchy-cobalt2-theme
@@ -352,7 +352,7 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 
 ### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 
-[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/blob/master/backgrounds/hg-01.jpeg?raw=true)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
+[![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/raw/master/screenshot-2025-08-18_12-07-35.png)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/joaquinmeza/omarchy-hakker-green-theme
