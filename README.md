@@ -271,7 +271,7 @@ omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme
 
 ### [dotrb](https://github.com/dotsilva/omarchy-dotrb-theme)
 
-[![dotrb Preview](https://github.com/dotsilva/omarchy-dotrb-theme/blob/b163618e96dd365b8516c93ac87cbfddc90422ef/preview.png)
+![dotrb Preview](https://github.com/dotsilva/omarchy-dotrb-theme/blob/b163618e96dd365b8516c93ac87cbfddc90422ef/preview.png)
 Install:
 ```
 omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
