@@ -242,6 +242,15 @@ omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 ```
 ---
 
+### [bluedotrb](https://github.com/dotsilva/omarchy-bluedotrb-theme)
+
+[![bluedotrb Preview](https://github.com/dotsilva/omarchy-bluedotrb-theme/blob/050d1b58472bf3bbbc30287008c926fbba4ce8d6/preview.png)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-bluedotrb-theme
+```
+---
+
 ### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
 
 [![Blueridge Dark Preview](https://github.com/user-attachments/assets/bb7ad98b-eef5-48ff-8029-e385ab67d8fa)](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
