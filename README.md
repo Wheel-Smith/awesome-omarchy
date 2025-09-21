@@ -598,6 +598,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-pulsar-theme
 ```
 ---
 
+### [Purplewave](https://github.com/dotsilva/omarchy-purplewave-theme)
+
+[![Purplewave Preview](https://github.com/dotsilva/omarchy-purplewave-theme/raw/521351efd54ce34cd181ae257dc72b2735b06eac/preview.png)](https://github.com/dotsilva/omarchy-purplewave-theme)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-purplewave-theme
+```
+---
+
 ### [RetroPC](https://github.com/rondilley/omarchy-retropc-theme)
 
 [![RetroPC Preview](https://manuals.omamix.org/u/retropc-theme-a24vKN.png)](https://github.com/rondilley/omarchy-retropc-theme)
