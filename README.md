@@ -568,6 +568,7 @@ Install:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
 ```
+---
 
 ### [Pretty Cvnt](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
 
@@ -575,6 +576,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
 Install:
 ```
 omarchy-theme-install https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme
+```
+---
+
+### [Pulsar](https://github.com/bjarneo/omarchy-pulsar-theme)
+
+[![Pulsar Preview](https://github.com/bjarneo/omarchy-pulsar-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pulsar-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-pulsar-theme
 ```
 ---
 
