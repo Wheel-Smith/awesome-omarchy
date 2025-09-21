@@ -535,6 +535,14 @@ omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
 ```
 ---
 
+### [Sakura](https://github.com/bjarneo/omarchy-sakura-theme)
+
+[![Sakura Preview](https://github.com/bjarneo/omarchy-sakura-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-sakura-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-sakura-theme
+```
+
 ### [Serenity](https://github.com/bjarneo/omarchy-serenity-theme)
 
 [![Serenity Preview](https://github.com/bjarneo/omarchy-serenity-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-serenity-theme)
