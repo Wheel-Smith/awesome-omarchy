@@ -508,6 +508,15 @@ omarchy-theme-install https://github.com/ericrswanny/omarchy-monokai-dark-theme
 ```
 ---
 
+### [Nagai Poolside](https://github.com/somerocketeer/omarchy-nagai-poolside-theme)
+
+[![Nagai Poolside Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1419155521537314946/491990098-89ab8b19-c1c0-4e77-8622-b60f8907d79b.png?ex=68d0bb12&is=68cf6992&hm=f06acec654feb0c0499b879619b0bba5fadd96bb0ce5d364b545bcc0cf7b33a0&)](https://github.com/somerocketeer/omarchy-nagai-poolside-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-nagai-poolside-theme
+```
+---
+
 ### [NES](https://github.com/bjarneo/omarchy-nes-theme)
 
 [![NES Preview](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
