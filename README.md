@@ -480,6 +480,7 @@ Install:
 ```
 omarchy-theme-install https://github.com/ryuhzk/komorebi
 ```
+---
 
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
@@ -487,6 +488,15 @@ omarchy-theme-install https://github.com/ryuhzk/komorebi
 Install:
 ```
 omarchy-theme-install https://github.com/steve-lohmeyer/omarchy-mars-theme
+```
+---
+
+### [Memento Mori](https://github.com/hipsterusername/omarchy-memento-mori-theme)
+
+[![Memento Mori Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1414775599238611015/487030107-278559ef-548a-4425-93d7-f4a2cdb714b1.png?ex=68d09df4&is=68cf4c74&hm=4a4d87b6afc14d55100f55f23c194928ad17ed29e8bf2017be9ca23948de5998&)](https://github.com/hipsterusername/omarchy-memento-mori-theme)
+Install:
+```
+omarchy-theme-install https://github.com/hipsterusername/omarchy-memento-mori-theme
 ```
 ---
 
