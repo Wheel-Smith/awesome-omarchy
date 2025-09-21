@@ -311,6 +311,15 @@ omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme
 ```
 ---
 
+### [Dotrb](https://github.com/dotsilva/omarchy-dotrb-theme)
+
+[![Dotrb Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1416222265535627294/preview.png?ex=68d09b44&is=68cf49c4&hm=ad061e4496102439e59e080589848c75ba9b2538d9aa173fb8031cebb33d844c&)](https://github.com/dotsilva/omarchy-dotrb-theme)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
+```
+---
+
 ### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
 
 [![Dracula Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
