@@ -677,6 +677,15 @@ omarchy-theme-install https://github.com/somerocketeer/omarchy-vercel-theme
 ```
 ---
 
+### [VHS80](https://github.com/tahayvr/omarchy-vhs80-theme)
+
+[![VHS80 Preview](https://github.com/tahayvr/omarchy-vhs80-theme/raw/main/vhs80.png)](https://github.com/tahayvr/omarchy-vhs80-theme)
+Install:
+```
+omarchy-theme-install https://github.com/tahayvr/omarchy-vhs80-theme
+```
+---
+
 ### [Void](https://github.com/vyrx-dev/omarchy-void-theme)
 
 [![Void Preview](https://github.com/vyrx-dev/omarchy-void-theme/raw/master/assets/setup-1.png)](https://github.com/vyrx-dev/omarchy-void-theme)
