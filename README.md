@@ -678,6 +678,15 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
 ```
 ---
 
+### [Super Game Bro](https://github.com/TyRichards/omarchy-super-game-bro-theme)
+
+[![Super Game Bro Preview](https://github.com/TyRichards/omarchy-super-game-bro-theme/raw/main/theme.png)](https://github.com/TyRichards/omarchy-super-game-bro-theme)
+Install:
+```
+omarchy-theme-install https://github.com/TyRichards/omarchy-super-game-bro-theme
+```
+---
+
 ### [Synthwave '84](https://github.com/omacom-io/omarchy-synthwave84-theme/)
 
 [![Synthwave '84 Preview](https://manuals.omamix.org/u/synthwave-theme-7yHWFA.png)](https://github.com/omacom-io/omarchy-synthwave84-theme/)
