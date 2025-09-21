@@ -206,6 +206,14 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-aura-theme
 ```
 ---
 
+### [Ayaka](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
+
+[![Ayaka Preview](https://github.com/abhijeet-swami/omarchy-ayaka-theme/raw/main/screenshots/1.png)](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
+Install:
+```
+omarchy-theme-install https://github.com/abhijeet-swami/omarchy-ayaka-theme
+```
+
 ### [Ayu Dark](https://github.com/fdidron/omarchy-ayu-dark-theme)
 
 [![Ayu Dark Preview](https://github.com/fdidron/omarchy-ayu-dark-theme/raw/main/theme.png)](https://github.com/fdidron/omarchy-ayu-dark-theme)
@@ -241,6 +249,40 @@ Install:
 omarchy-theme-install https://github.com/Hydradevx/omarchy-azure-glow-theme
 ```
 ---
+
+### [Bauhaus](https://github.com/somerocketeer/omarchy-bauhaus-theme)
+
+[![Bauhaus preview](https://cdn.discordapp.com/attachments/1399365674832232448/1417180573780279346/screenshot-2025-09-14_22-21-06.png?ex=68d0cc02&is=68cf7a82&hm=aa068b2fd4f4c7b1b5a9bcb2dfbdc016132aecad96fed682941308e3a55098b9&)](https://github.com/somerocketeer/omarchy-bauhaus-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-bauhaus-theme
+```
+---
+
+### [Blackgold](https://github.com/HANCORE-linux/omarchy-blackgold-theme)
+
+[![Blackgold Preview](https://github.com/HANCORE-linux/omarchy-blackgold-theme/blob/main/backgrounds/BG2.jpg?raw=true)](https://github.com/HANCORE-linux/omarchy-blackgold-theme)
+Install:
+```
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackgold-theme
+```
+
+### [Blackturq](https://github.com/HANCORE-linux/omarchy-blackturq-theme)
+
+[![Blackturq Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1417996718548582400/screenshot-2025-09-18_00-11-34.png?ex=68d0785a&is=68cf26da&hm=6df75afb5d152f4729113b107d2705d95265115d518fb16972c275d6d3d76954&)](https://github.com/HANCORE-linux/omarchy-blackturq-theme)
+Install:
+```
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-blackturq-theme
+```
+---
+
+### [Bluedotrb](https://github.com/dotsilva/omarchy-bluedotrb-theme)
+
+[![Bluedotrb Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1416898175654170715/preview.png?ex=68d06dc1&is=68cf1c41&hm=da55ab02863f24481f50e9756ddec4534a7996cf5d704e462462b6734df4334a&)](https://github.com/dotsilva/omarchy-bluedotrb-theme)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-bluedotrb-theme
+```
 
 ### [Blueridge Dark](https://github.com/hipsterusername/omarchy-blueridge-dark-theme)
 
@@ -314,6 +356,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-fiery-ocean-theme
 ```
 ---
 
+### [Fireside](https://github.com/bjarneo/omarchy-fireside-theme)
+
+[![Fireside Preview](https://github.com/bjarneo/omarchy-fireside-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-fireside-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-fireside-theme
+```
+---
+
 ### [Flexoki Dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
 
 [![Flexoki Dark Preview](https://camo.githubusercontent.com/5db29929ba4ba3c670dc641baff914e4b3ad1a00dd04a8337f29cf4bc0eb0b6b/68747470733a2f2f692e696d6775722e636f6d2f773463463262352e706e67)](https://github.com/euandeas/omarchy-flexoki-dark-theme)
@@ -338,6 +389,15 @@ omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-light-theme
 Install:
 ```
 omarchy-theme-install https://github.com/abhijeet-swami/omarchy-forest-green-theme
+```
+---
+
+### [Frost](https://github.com/bjarneo/omarchy-frost-theme)
+
+[![Frost Preview](https://github.com/bjarneo/omarchy-frost-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-frost-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-frost-theme
 ```
 ---
 
@@ -394,6 +454,14 @@ Install:
 omarchy-theme-install https://github.com/krymzonn/omarchy-kimiko-theme
 ```
 ---
+
+### [Komorebi](https://github.com/ryuhzk/komorebi)
+
+[![Komorebi Preview](https://private-user-images.githubusercontent.com/213640356/490439140-2011aea3-6dd3-40c7-bb14-c7bc52444c6b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0Mzk4NzMsIm5iZiI6MTc1ODQzOTU3MywicGF0aCI6Ii8yMTM2NDAzNTYvNDkwNDM5MTQwLTIwMTFhZWEzLTZkZDMtNDBjNy1iYjE0LWM3YmM1MjQ0NGM2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwNzI2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MTVlZmJjMWU4YWJiYTUzNDFlZjJjOTRmMzUxMjNmMTg5ZjgxODdmMzI4MjIwOGUxNWM3YzJiZjExNjAzYzU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Cp8CWg3RGzFqUCxKaq9rR7VJKqW8_xnu0MqTRYpRsAQ)](https://github.com/ryuhzk/komorebi)
+Install:
+```
+omarchy-theme-install https://github.com/ryuhzk/komorebi
+```
 
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
@@ -458,6 +526,14 @@ omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
 ```
 ---
 
+### [Pina](https://github.com/bjarneo/omarchy-pina-theme)
+
+[![Pina Preview](https://github.com/bjarneo/omarchy-pina-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pina-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
+```
+
 ### [Pretty Cvnt](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
 
 [![Pretty Cvnt Preview](https://camo.githubusercontent.com/15c00f460a9b4c70fb807286fb29ec1f1aee9626b5799ffa440acc27c1453959/68747470733a2f2f70787363646e2e636f6d2f7075626c69632f6d2f5f76322f3835393630313435323133323134313732322f3333636339623934392d3333393739312f63634a5a584c4b44714541612f4a4a5a746b70334a776c545335376e456a6a43734e48463157556a6e547257356c4e3871685643332e706e67)](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
@@ -484,6 +560,14 @@ Install:
 omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
 ```
 ---
+
+### [Sakura](https://github.com/bjarneo/omarchy-sakura-theme)
+
+[![Sakura Preview](https://github.com/bjarneo/omarchy-sakura-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-sakura-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-sakura-theme
+```
 
 ### [Serenity](https://github.com/bjarneo/omarchy-serenity-theme)
 
@@ -572,6 +656,24 @@ omarchy-theme-install https://github.com/Rnedlose/omarchy-vague-theme
 Install:
 ```
 omarchy-theme-install https://github.com/perfektnacht/omarchy-velocity-theme
+```
+---
+
+### [Vercel](https://github.com/somerocketeer/omarchy-vercel-theme)
+
+[![Vercel Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1416955140635627520/screenshot-2025-09-14_20-10-18.png?ex=68d0a2cf&is=68cf514f&hm=1df1d1e3af675eedd139effd242707ff463cbe0a84ac3af9a9181924c5e7d030&)](https://github.com/somerocketeer/omarchy-vercel-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-vercel-theme
+```
+---
+
+### [Void](https://github.com/vyrx-dev/omarchy-void-theme)
+
+[![Void Preview](https://github.com/vyrx-dev/omarchy-void-theme/raw/master/assets/setup-1.png)](https://github.com/vyrx-dev/omarchy-void-theme)
+Install:
+```
+omarchy-theme-install https://github.com/vyrx-dev/omarchy-void-theme
 ```
 ---
 
