@@ -703,6 +703,15 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-vhs80-theme
 ```
 ---
 
+### [Vice City](https://github.com/lavarinimoreira/omarchy-vice-city-theme)
+
+[![Vice City Preview](https://github.com/lavarinimoreira/omarchy-vice-city-theme/raw/main/preview/preview-0.png)](https://github.com/lavarinimoreira/omarchy-vice-city-theme)
+Install:
+```
+omarchy-theme-install https://github.com/lavarinimoreira/omarchy-vice-city-theme
+```
+---
+
 ### [Void](https://github.com/vyrx-dev/omarchy-void-theme)
 
 [![Void Preview](https://github.com/vyrx-dev/omarchy-void-theme/raw/master/assets/setup-1.png)](https://github.com/vyrx-dev/omarchy-void-theme)
