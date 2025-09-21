@@ -311,6 +311,15 @@ omarchy-theme-install https://github.com/knappkevin/omarchy-crimson-gold-theme
 ```
 ---
 
+### [Dotrb](https://github.com/dotsilva/omarchy-dotrb-theme)
+
+[![Dotrb Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1416222265535627294/preview.png?ex=68d09b44&is=68cf49c4&hm=ad061e4496102439e59e080589848c75ba9b2538d9aa173fb8031cebb33d844c&)](https://github.com/dotsilva/omarchy-dotrb-theme)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-dotrb-theme
+```
+---
+
 ### [Dracula](https://github.com/catlee/omarchy-dracula-theme)
 
 [![Dracula Preview](https://github.com/catlee/omarchy-dracula-theme/raw/main/theme.png)](https://github.com/catlee/omarchy-dracula-theme)
@@ -362,6 +371,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-fiery-ocean-theme
 Install:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-fireside-theme
+```
+---
+
+### [Firesky](https://github.com/bjarneo/omarchy-firesky-theme)
+
+[![Firesky Preview](https://github.com/bjarneo/omarchy-firesky-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-firesky-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-firesky-theme
 ```
 ---
 
@@ -462,6 +480,7 @@ Install:
 ```
 omarchy-theme-install https://github.com/ryuhzk/komorebi
 ```
+---
 
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
@@ -469,6 +488,15 @@ omarchy-theme-install https://github.com/ryuhzk/komorebi
 Install:
 ```
 omarchy-theme-install https://github.com/steve-lohmeyer/omarchy-mars-theme
+```
+---
+
+### [Memento Mori](https://github.com/hipsterusername/omarchy-memento-mori-theme)
+
+[![Memento Mori Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1414775599238611015/487030107-278559ef-548a-4425-93d7-f4a2cdb714b1.png?ex=68d09df4&is=68cf4c74&hm=4a4d87b6afc14d55100f55f23c194928ad17ed29e8bf2017be9ca23948de5998&)](https://github.com/hipsterusername/omarchy-memento-mori-theme)
+Install:
+```
+omarchy-theme-install https://github.com/hipsterusername/omarchy-memento-mori-theme
 ```
 ---
 
@@ -508,6 +536,23 @@ omarchy-theme-install https://github.com/ericrswanny/omarchy-monokai-dark-theme
 ```
 ---
 
+### [Nagai Poolside](https://github.com/somerocketeer/omarchy-nagai-poolside-theme)
+
+[![Nagai Poolside Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1419155521537314946/491990098-89ab8b19-c1c0-4e77-8622-b60f8907d79b.png?ex=68d0bb12&is=68cf6992&hm=f06acec654feb0c0499b879619b0bba5fadd96bb0ce5d364b545bcc0cf7b33a0&)](https://github.com/somerocketeer/omarchy-nagai-poolside-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-nagai-poolside-theme
+```
+---
+
+### [Nagai Twilight](https://github.com/somerocketeer/omarchy-nagai-twilight-theme)
+
+[![Nagai Twilight Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1419171167696191619/screenshot-2025-09-20_22-55-45.png?ex=68d0c9a5&is=68cf7825&hm=eeae9fb9535baa8d98b36366fed030bacea96d81e521c1cfb88d5a82d302a6f1&)](https://github.com/somerocketeer/omarchy-nagai-twilight-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-nagai-twilight-theme
+```
+
 ### [NES](https://github.com/bjarneo/omarchy-nes-theme)
 
 [![NES Preview](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
@@ -533,6 +578,7 @@ Install:
 ```
 omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
 ```
+---
 
 ### [Pretty Cvnt](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
 
@@ -540,6 +586,24 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
 Install:
 ```
 omarchy-theme-install https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme
+```
+---
+
+### [Pulsar](https://github.com/bjarneo/omarchy-pulsar-theme)
+
+[![Pulsar Preview](https://github.com/bjarneo/omarchy-pulsar-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pulsar-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-pulsar-theme
+```
+---
+
+### [Purplewave](https://github.com/dotsilva/omarchy-purplewave-theme)
+
+[![Purplewave Preview](https://github.com/dotsilva/omarchy-purplewave-theme/raw/521351efd54ce34cd181ae257dc72b2735b06eac/preview.png)](https://github.com/dotsilva/omarchy-purplewave-theme)
+Install:
+```
+omarchy-theme-install https://github.com/dotsilva/omarchy-purplewave-theme
 ```
 ---
 
@@ -623,6 +687,15 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
 ```
 ---
 
+### [Super Game Bro](https://github.com/TyRichards/omarchy-super-game-bro-theme)
+
+[![Super Game Bro Preview](https://github.com/TyRichards/omarchy-super-game-bro-theme/raw/main/theme.png)](https://github.com/TyRichards/omarchy-super-game-bro-theme)
+Install:
+```
+omarchy-theme-install https://github.com/TyRichards/omarchy-super-game-bro-theme
+```
+---
+
 ### [Synthwave '84](https://github.com/omacom-io/omarchy-synthwave84-theme/)
 
 [![Synthwave '84 Preview](https://manuals.omamix.org/u/synthwave-theme-7yHWFA.png)](https://github.com/omacom-io/omarchy-synthwave84-theme/)
@@ -665,6 +738,24 @@ omarchy-theme-install https://github.com/perfektnacht/omarchy-velocity-theme
 Install:
 ```
 omarchy-theme-install https://github.com/somerocketeer/omarchy-vercel-theme
+```
+---
+
+### [VHS80](https://github.com/tahayvr/omarchy-vhs80-theme)
+
+[![VHS80 Preview](https://github.com/tahayvr/omarchy-vhs80-theme/raw/main/vhs80.png)](https://github.com/tahayvr/omarchy-vhs80-theme)
+Install:
+```
+omarchy-theme-install https://github.com/tahayvr/omarchy-vhs80-theme
+```
+---
+
+### [Vice City](https://github.com/lavarinimoreira/omarchy-vice-city-theme)
+
+[![Vice City Preview](https://github.com/lavarinimoreira/omarchy-vice-city-theme/raw/main/preview/preview-0.png)](https://github.com/lavarinimoreira/omarchy-vice-city-theme)
+Install:
+```
+omarchy-theme-install https://github.com/lavarinimoreira/omarchy-vice-city-theme
 ```
 ---
 
