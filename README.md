@@ -356,6 +356,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-fiery-ocean-theme
 ```
 ---
 
+### [Fireside](https://github.com/bjarneo/omarchy-fireside-theme)
+
+[![Fireside Preview](https://github.com/bjarneo/omarchy-fireside-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-fireside-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-fireside-theme
+```
+---
+
 ### [Flexoki Dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
 
 [![Flexoki Dark Preview](https://camo.githubusercontent.com/5db29929ba4ba3c670dc641baff914e4b3ad1a00dd04a8337f29cf4bc0eb0b6b/68747470733a2f2f692e696d6775722e636f6d2f773463463262352e706e67)](https://github.com/euandeas/omarchy-flexoki-dark-theme)
