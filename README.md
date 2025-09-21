@@ -392,6 +392,15 @@ omarchy-theme-install https://github.com/abhijeet-swami/omarchy-forest-green-the
 ```
 ---
 
+### [Frost](https://github.com/bjarneo/omarchy-frost-theme)
+
+[![Frost Preview](https://github.com/bjarneo/omarchy-frost-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-frost-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-frost-theme
+```
+---
+
 ### [Futurism](https://github.com/bjarneo/omarchy-futurism-theme)
 
 [![Futurism Preview](https://github.com/bjarneo/omarchy-futurism-theme/blob/main/theme.png)](https://github.com/bjarneo/omarchy-futurism-theme)
