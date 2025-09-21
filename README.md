@@ -668,6 +668,15 @@ omarchy-theme-install https://github.com/somerocketeer/omarchy-vercel-theme
 ```
 ---
 
+### [Void](https://github.com/vyrx-dev/omarchy-void-theme)
+
+[![Void Preview](https://github.com/vyrx-dev/omarchy-void-theme/raw/master/assets/setup-1.png)](https://github.com/vyrx-dev/omarchy-void-theme)
+Install:
+```
+omarchy-theme-install https://github.com/vyrx-dev/omarchy-void-theme
+```
+---
+
 ### [Wasteland](https://github.com/perfektnacht/omarchy-wasteland-theme)
 
 [![Wasteland Preview](https://raw.githubusercontent.com/perfektnacht/omarchy-wasteland-theme/main/assets/Desktop.png)](https://github.com/perfektnacht/omarchy-wasteland-theme)
