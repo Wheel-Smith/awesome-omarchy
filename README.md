@@ -526,6 +526,14 @@ omarchy-theme-install https://github.com/somerocketeer/omarchy-nagai-poolside-th
 ```
 ---
 
+### [Nagai Twilight](https://github.com/somerocketeer/omarchy-nagai-twilight-theme)
+
+[![Nagai Twilight Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1419171167696191619/screenshot-2025-09-20_22-55-45.png?ex=68d0c9a5&is=68cf7825&hm=eeae9fb9535baa8d98b36366fed030bacea96d81e521c1cfb88d5a82d302a6f1&)](https://github.com/somerocketeer/omarchy-nagai-twilight-theme)
+Install:
+```
+omarchy-theme-install https://github.com/somerocketeer/omarchy-nagai-twilight-theme
+```
+
 ### [NES](https://github.com/bjarneo/omarchy-nes-theme)
 
 [![NES Preview](https://github.com/bjarneo/omarchy-nes-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-nes-theme)
