@@ -359,6 +359,15 @@ omarchy-theme-install https://github.com/tahayvr/omarchy-gold-rush-theme
 ```
 ---
 
+### [Green Garden](https://github.com/kalk-ak/omarchy-green-garden-theme)
+
+[![Green Garden Preview](https://raw.githubusercontent.com/kalk-ak/Stash/master/Omarchy-Green-Garden-Images/omarchy-lush-green.png)](https://github.com/kalk-ak/omarchy-green-garden-theme)
+Install:
+```
+omarchy-theme-install https://github.com/kalk-ak/omarchy-green-garden-theme
+```
+---
+
 ### [Hakker Green](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
 
 [![Hakker Green Preview](https://github.com/joaquinmeza/omarchy-hakker-green-theme/raw/master/screenshot-2025-08-18_12-07-35.png)](https://github.com/joaquinmeza/omarchy-hakker-green-theme)
