@@ -508,6 +508,14 @@ omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
 ```
 ---
 
+### [Pina](https://github.com/bjarneo/omarchy-pina-theme)
+
+[![Pina Preview](https://github.com/bjarneo/omarchy-pina-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pina-theme)
+Install:
+```
+omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
+```
+
 ### [Pretty Cvnt](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
 
 [![Pretty Cvnt Preview](https://camo.githubusercontent.com/15c00f460a9b4c70fb807286fb29ec1f1aee9626b5799ffa440acc27c1453959/68747470733a2f2f70787363646e2e636f6d2f7075626c69632f6d2f5f76322f3835393630313435323133323134313732322f3333636339623934392d3333393739312f63634a5a584c4b44714541612f4a4a5a746b70334a776c545335376e456a6a43734e48463157556a6e547257356c4e3871685643332e706e67)](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
