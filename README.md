@@ -786,6 +786,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-waveform-dark-t
 ```
 ---
 
+### [Temerald](https://github.com/Ahmad-Mtr/omarchy-temerald-theme)
+
+[![Temerald Preview](https://raw.githubusercontent.com/Ahmad-Mtr/omarchy-temerald-theme/main/preview.png)](https://github.com/Ahmad-Mtr/omarchy-temerald-theme)
+Install:
+```
+omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
+```
+
+
 </details>
 
 
