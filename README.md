@@ -464,6 +464,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-hollow-knight-theme
 ```
 ---
 
+### [Hyprland](https://github.com/Esegnorelli/omarchy-hyprland-theme)
+
+[![Hyprland Preview](https://github.com/Esegnorelli/omarchy-hyprland-theme/raw/main/preview.png)](https://github.com/Esegnorelli/omarchy-hyprland-theme)
+Install:
+```
+omarchy-theme-install https://github.com/Esegnorelli/omarchy-hyprland-theme
+```
+---
+
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
