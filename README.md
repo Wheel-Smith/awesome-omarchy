@@ -428,6 +428,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-futurism-theme
 ```
 ---
 
+### [God Is In The Rain](https://github.com/mavdi/omarchy-god-is-in-the-rain)
+
+[![God Is In The Rain Preview](https://github.com/mavdi/omarchy-god-is-in-the-rain/raw/main/preview.png)](https://github.com/mavdi/omarchy-god-is-in-the-rain)
+Install:
+```
+omarchy-theme-install https://github.com/mavdi/omarchy-god-is-in-the-rain
+```
+---
+
 ### [Gold Rush](https://github.com/tahayvr/omarchy-gold-rush-theme)
 
 [![Gold Rush Preview](https://github.com/tahayvr/omarchy-gold-rush-theme/raw/main/preview.png)](https://github.com/tahayvr/omarchy-gold-rush-theme)
