@@ -571,6 +571,15 @@ omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
 ```
 ---
 
+### [Onyx](https://github.com/luntta/omarchy-onyx-theme)
+
+[![Onyx Preview](https://github.com/luntta/omarchy-onyx-theme/raw/main/preview.png)](https://github.com/luntta/omarchy-onyx-theme)
+Install:
+```
+omarchy-theme-install https://github.com/luntta/omarchy-onyx-theme
+```
+---
+
 ### [Pina](https://github.com/bjarneo/omarchy-pina-theme)
 
 [![Pina Preview](https://github.com/bjarneo/omarchy-pina-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pina-theme)
