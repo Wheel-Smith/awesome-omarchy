@@ -482,6 +482,16 @@ omarchy-theme-install https://github.com/ryuhzk/komorebi
 ```
 ---
 
+### [Matugen Auto](https://github.com/AccursedGalaxy/omarchy-auto-theme)
+
+[![Matugen Auto Preview](https://raw.githubusercontent.com/AccursedGalaxy/omarchy-auto-theme/main/assets/demo.gif)](https://github.com/AccursedGalaxy/omarchy-auto-theme)
+A dynamic theme generated from your current wallpaper with matugen. Needs its own installer instead of `omarchy-theme-install`:
+```
+git clone https://github.com/AccursedGalaxy/omarchy-auto-theme
+cd omarchy-auto-theme && ./install.sh
+```
+---
+
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
 [![Mars Preview](https://github.com/steve-lohmeyer/omarchy-mars-theme/raw/master/theme.png)](https://github.com/steve-lohmeyer/omarchy-mars-theme)
