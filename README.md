@@ -571,6 +571,15 @@ omarchy-theme-install https://github.com/sc0ttman/omarchy-one-dark-pro
 ```
 ---
 
+### [Periphery](https://github.com/r-bart/omarchy-periphery-theme)
+
+[![Periphery Preview](https://raw.githubusercontent.com/r-bart/omarchy-periphery-theme/main/preview.png)](https://github.com/r-bart/omarchy-periphery-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-periphery-theme
+```
+---
+
 ### [Pina](https://github.com/bjarneo/omarchy-pina-theme)
 
 [![Pina Preview](https://github.com/bjarneo/omarchy-pina-theme/raw/main/theme.png)](https://github.com/bjarneo/omarchy-pina-theme)
@@ -687,6 +696,15 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
 ```
 ---
 
+### [Starsend](https://github.com/r-bart/omarchy-starsend-theme)
+
+[![Starsend Preview](https://raw.githubusercontent.com/r-bart/omarchy-starsend-theme/main/preview.png)](https://github.com/r-bart/omarchy-starsend-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-starsend-theme
+```
+---
+
 ### [Super Game Bro](https://github.com/TyRichards/omarchy-super-game-bro-theme)
 
 [![Super Game Bro Preview](https://github.com/TyRichards/omarchy-super-game-bro-theme/raw/main/theme.png)](https://github.com/TyRichards/omarchy-super-game-bro-theme)
@@ -714,12 +732,30 @@ omarchy-theme-install https://github.com/joaquinmeza/omarchy-tekk-o-ween-theme
 ```
 ---
 
+### [Terminus](https://github.com/r-bart/omarchy-terminus-theme)
+
+[![Terminus Preview](https://raw.githubusercontent.com/r-bart/omarchy-terminus-theme/main/preview.png)](https://github.com/r-bart/omarchy-terminus-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-terminus-theme
+```
+---
+
 ### [Vague](https://github.com/Rnedlose/omarchy-vague-theme)
 
 [![Vague Preview](https://cdn.discordapp.com/attachments/1399365674832232448/1409349303641571449/screenshot-2025-08-24_20-02-27.png?ex=68ad0e52&is=68abbcd2&hm=84ab8da3b7c4ebbaf224cefa31bcd3eb88b1ad15b7331f1961f6f7e1ac881878&)](https://github.com/Rnedlose/omarchy-vague-theme)
 Install:
 ```
 omarchy-theme-install https://github.com/Rnedlose/omarchy-vague-theme
+```
+---
+
+### [Vault](https://github.com/r-bart/omarchy-vault-theme)
+
+[![Vault Preview](https://raw.githubusercontent.com/r-bart/omarchy-vault-theme/main/preview.png)](https://github.com/r-bart/omarchy-vault-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-vault-theme
 ```
 ---
 
