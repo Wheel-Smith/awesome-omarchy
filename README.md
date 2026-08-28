@@ -607,6 +607,24 @@ omarchy-theme-install https://github.com/dotsilva/omarchy-purplewave-theme
 ```
 ---
 
+### [Quattrocento](https://github.com/r-bart/omarchy-quattrocento-theme)
+
+[![Quattrocento Preview](https://raw.githubusercontent.com/r-bart/omarchy-quattrocento-theme/main/preview.png)](https://github.com/r-bart/omarchy-quattrocento-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-quattrocento-theme
+```
+---
+
+### [Quattrocento Light](https://github.com/r-bart/omarchy-quattrocento-light-theme)
+
+[![Quattrocento Light Preview](https://raw.githubusercontent.com/r-bart/omarchy-quattrocento-light-theme/main/preview.png)](https://github.com/r-bart/omarchy-quattrocento-light-theme)
+Install:
+```
+omarchy-theme-install https://github.com/r-bart/omarchy-quattrocento-light-theme
+```
+---
+
 ### [RetroPC](https://github.com/rondilley/omarchy-retropc-theme)
 
 [![RetroPC Preview](https://manuals.omamix.org/u/retropc-theme-a24vKN.png)](https://github.com/rondilley/omarchy-retropc-theme)
