@@ -794,6 +794,15 @@ Install:
 omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
 ```
 
+---
+### [Terminal Delight](https://github.com/parker-brown-family/omarchy-terminal-delight-theme)
+
+[![Terminal Delight Preview](https://raw.githubusercontent.com/parker-brown-family/omarchy-terminal-delight-theme/main/preview.png)](https://github.com/parker-brown-family/omarchy-terminal-delight-theme)
+Install:
+```
+omarchy-theme-install https://github.com/parker-brown-family/omarchy-terminal-delight-theme
+```
+
 
 </details>
 
