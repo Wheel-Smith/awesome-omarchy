@@ -518,6 +518,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-milkmatcha-ligh
 ```
 ---
 
+### [MUTHUR](https://github.com/santiago-giordano/omarchy-muthur-theme)
+
+[![MUTHUR Preview](https://github.com/santiago-giordano/omarchy-muthur-theme/raw/main/preview.png)](https://github.com/santiago-giordano/omarchy-muthur-theme)
+Install:
+```
+omarchy-theme-install https://github.com/santiago-giordano/omarchy-muthur-theme
+```
+---
+
 ### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
 [![Monochrome Preview](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
