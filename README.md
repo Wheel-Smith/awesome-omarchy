@@ -793,7 +793,27 @@ Install:
 ```
 omarchy-theme-install https://github.com/Ahmad-Mtr/omarchy-temerald-theme
 ```
+---
 
+### [Matrix Rain](https://github.com/tinterian/omarchy-matrix-rain)
+
+[![Matrix Rain Preview](https://raw.githubusercontent.com/tinterian/omarchy-matrix-rain/master/assets/preview-medium.jpg)](https://github.com/tinterian/omarchy-matrix-rain)
+
+A full Matrix-movie theme: a real animated, seamlessly-looping digital-rain
+live wallpaper (four selectable text sizes) plus matching file-manager
+icons, Neovim/VS Code colors, and lock screen.
+
+Note: this one needs its own installer, not the one-line
+`omarchy-theme-install` — the live wallpaper depends on a systemd service
+and locally-rendered video that only its own `install.sh` sets up (see the
+repo's README for exactly why).
+
+Install:
+```
+git clone https://github.com/tinterian/omarchy-matrix-rain.git
+cd omarchy-matrix-rain
+./install.sh
+```
 
 </details>
 
