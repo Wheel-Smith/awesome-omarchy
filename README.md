@@ -687,6 +687,15 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-space-monkey-theme
 ```
 ---
 
+### [Spider-Man](https://github.com/milky86x/spiderman)
+
+[![Spider-Man Preview](https://raw.githubusercontent.com/milky86x/spiderman/master/preview.png)](https://github.com/milky86x/spiderman)
+Install:
+```
+omarchy-theme-install https://github.com/milky86x/spiderman
+```
+---
+
 ### [Super Game Bro](https://github.com/TyRichards/omarchy-super-game-bro-theme)
 
 [![Super Game Bro Preview](https://github.com/TyRichards/omarchy-super-game-bro-theme/raw/main/theme.png)](https://github.com/TyRichards/omarchy-super-game-bro-theme)
