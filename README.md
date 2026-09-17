@@ -759,6 +759,16 @@ omarchy-theme-install https://github.com/lavarinimoreira/omarchy-vice-city-theme
 ```
 ---
 
+### [Video Wallpaper](https://github.com/p3lusa/video-wallpaper)
+
+[![Video Wallpaper Preview](https://raw.githubusercontent.com/p3lusa/video-wallpaper/main/preview-unlock.png)](https://github.com/p3lusa/video-wallpaper)
+Install:
+```
+omarchy-theme-install https://github.com/p3lusa/video-wallpaper
+```
+> **Note:** this theme requires the [video-background plugin](https://github.com/p3lusa/video-background) to play video wallpapers. See the [theme README](https://github.com/p3lusa/video-wallpaper#installation-omarchys-own-commands) for the full 4-step install.
+---
+
 ### [Void](https://github.com/vyrx-dev/omarchy-void-theme)
 
 [![Void Preview](https://github.com/vyrx-dev/omarchy-void-theme/raw/master/assets/setup-1.png)](https://github.com/vyrx-dev/omarchy-void-theme)
