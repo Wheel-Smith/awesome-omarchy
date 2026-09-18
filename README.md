@@ -696,6 +696,15 @@ omarchy-theme-install https://github.com/TyRichards/omarchy-super-game-bro-theme
 ```
 ---
 
+### [Sword Art](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme)
+
+[![Sword Art Preview](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme/raw/master/preview.png)](https://github.com/KitsuneSemCalda/omarchy-sword-art-theme)
+Install:
+```
+omarchy-theme-install https://github.com/KitsuneSemCalda/omarchy-sword-art-theme
+```
+---
+
 ### [Synthwave '84](https://github.com/omacom-io/omarchy-synthwave84-theme/)
 
 [![Synthwave '84 Preview](https://manuals.omamix.org/u/synthwave-theme-7yHWFA.png)](https://github.com/omacom-io/omarchy-synthwave84-theme/)
