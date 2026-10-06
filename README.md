@@ -482,6 +482,15 @@ omarchy-theme-install https://github.com/ryuhzk/komorebi
 ```
 ---
 
+### [Konbini](https://github.com/Lohan-Pieterse/omarchy-konbini-theme)
+
+[![Konbini Preview](https://github.com/Lohan-Pieterse/omarchy-konbini-theme/raw/main/preview.png)](https://github.com/Lohan-Pieterse/omarchy-konbini-theme)
+Install:
+```
+omarchy-theme-install https://github.com/Lohan-Pieterse/omarchy-konbini-theme
+```
+---
+
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
 [![Mars Preview](https://github.com/steve-lohmeyer/omarchy-mars-theme/raw/master/theme.png)](https://github.com/steve-lohmeyer/omarchy-mars-theme)
