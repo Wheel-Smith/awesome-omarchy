@@ -464,6 +464,15 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-hollow-knight-theme
 ```
 ---
 
+### [Ingolstadt 1792](https://github.com/nathankramm/omarchy-ingolstadt-1792-theme)
+
+[![Ingolstadt 1792 Preview](https://github.com/nathankramm/omarchy-ingolstadt-1792-theme/raw/main/preview.png)](https://github.com/nathankramm/omarchy-ingolstadt-1792-theme)
+Install:
+```
+omarchy-theme-install https://github.com/nathankramm/omarchy-ingolstadt-1792-theme
+```
+---
+
 ### [Kimiko](https://github.com/krymzonn/omarchy-kimiko-theme)
 
 [![Kimiko Preview](https://github.com/krymzonn/omarchy-kimiko-theme/raw/master/extra-assets/omarchy-kimiko-2025-08-04brecomp8.jpg)](https://github.com/krymzonn/omarchy-kimiko-theme)
