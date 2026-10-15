@@ -293,6 +293,24 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 ```
 ---
 
+### [Chat with Work Dark](https://github.com/crmne/omarchy-chat-with-work-dark-theme)
+
+[![Chat with Work Dark Preview](https://raw.githubusercontent.com/crmne/omarchy-chat-with-work-dark-theme/main/preview.png)](https://github.com/crmne/omarchy-chat-with-work-dark-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-chat-with-work-dark-theme
+```
+---
+
+### [Chat with Work Light](https://github.com/crmne/omarchy-chat-with-work-light-theme)
+
+[![Chat with Work Light Preview](https://raw.githubusercontent.com/crmne/omarchy-chat-with-work-light-theme/main/preview.png)](https://github.com/crmne/omarchy-chat-with-work-light-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-chat-with-work-light-theme
+```
+---
+
 ### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
 
 [![Cobalt2 Preview](https://camo.githubusercontent.com/ac01ff424cf0e8a1c19c98a3d098e8e3b410c3e9af375eb1083fd774a652afc3/68747470733a2f2f686f626c2e696e2f6f6d61726368792d636f62616c74322d7468656d652d707265766965772e706e67)](https://github.com/hoblin/omarchy-cobalt2-theme)
@@ -580,6 +598,24 @@ omarchy-theme-install https://github.com/bjarneo/omarchy-pina-theme
 ```
 ---
 
+### [Plenty Dark](https://github.com/crmne/omarchy-plenty-dark-theme)
+
+[![Plenty Dark Preview](https://raw.githubusercontent.com/crmne/omarchy-plenty-dark-theme/main/preview.png)](https://github.com/crmne/omarchy-plenty-dark-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-plenty-dark-theme
+```
+---
+
+### [Plenty Light](https://github.com/crmne/omarchy-plenty-light-theme)
+
+[![Plenty Light Preview](https://raw.githubusercontent.com/crmne/omarchy-plenty-light-theme/main/preview.png)](https://github.com/crmne/omarchy-plenty-light-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-plenty-light-theme
+```
+---
+
 ### [Pretty Cvnt](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
 
 [![Pretty Cvnt Preview](https://camo.githubusercontent.com/15c00f460a9b4c70fb807286fb29ec1f1aee9626b5799ffa440acc27c1453959/68747470733a2f2f70787363646e2e636f6d2f7075626c69632f6d2f5f76322f3835393630313435323133323134313732322f3333636339623934392d3333393739312f63634a5a584c4b44714541612f4a4a5a746b70334a776c545335376e456a6a43734e48463157556a6e547257356c4e3871685643332e706e67)](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme)
@@ -622,6 +658,24 @@ omarchy-theme-install https://github.com/rondilley/omarchy-retropc-theme
 Install:
 ```
 omarchy-theme-install https://github.com/guilhermetk/omarchy-rose-pine-dark
+```
+---
+
+### [RubyLLM Dark](https://github.com/crmne/omarchy-ruby-llm-dark-theme)
+
+[![RubyLLM Dark Preview](https://raw.githubusercontent.com/crmne/omarchy-ruby-llm-dark-theme/main/preview.png)](https://github.com/crmne/omarchy-ruby-llm-dark-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-ruby-llm-dark-theme
+```
+---
+
+### [RubyLLM Light](https://github.com/crmne/omarchy-ruby-llm-light-theme)
+
+[![RubyLLM Light Preview](https://raw.githubusercontent.com/crmne/omarchy-ruby-llm-light-theme/main/preview.png)](https://github.com/crmne/omarchy-ruby-llm-light-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-ruby-llm-light-theme
 ```
 ---
 
@@ -675,6 +729,24 @@ omarchy-theme-install https://github.com/dfrico/omarchy-solarized-light-theme
 Install:
 ```
 omarchy-theme-install https://github.com/motorsss/omarchy-solarizedosaka-theme
+```
+---
+
+### [Solco Dark](https://github.com/crmne/omarchy-solco-dark-theme)
+
+[![Solco Dark Preview](https://raw.githubusercontent.com/crmne/omarchy-solco-dark-theme/main/preview.png)](https://github.com/crmne/omarchy-solco-dark-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-solco-dark-theme
+```
+---
+
+### [Solco Light](https://github.com/crmne/omarchy-solco-light-theme)
+
+[![Solco Light Preview](https://raw.githubusercontent.com/crmne/omarchy-solco-light-theme/main/preview.png)](https://github.com/crmne/omarchy-solco-light-theme)
+Install (Omarchy 4):
+```bash
+omarchy theme install https://github.com/crmne/omarchy-solco-light-theme
 ```
 ---
 
