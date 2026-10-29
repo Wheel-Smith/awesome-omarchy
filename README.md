@@ -482,6 +482,15 @@ omarchy-theme-install https://github.com/ryuhzk/komorebi
 ```
 ---
 
+### [Leonida](https://github.com/angbandz/omarchy-leonida-theme)
+
+[![Leonida Preview](https://github.com/angbandz/omarchy-leonida-theme/raw/main/preview.png)](https://github.com/angbandz/omarchy-leonida-theme)
+Install:
+```
+omarchy-theme-install https://github.com/angbandz/omarchy-leonida-theme
+```
+---
+
 ### [Mars](https://github.com/steve-lohmeyer/omarchy-mars-theme)
 
 [![Mars Preview](https://github.com/steve-lohmeyer/omarchy-mars-theme/raw/master/theme.png)](https://github.com/steve-lohmeyer/omarchy-mars-theme)
