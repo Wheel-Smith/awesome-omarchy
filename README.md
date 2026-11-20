@@ -518,6 +518,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-milkmatcha-ligh
 ```
 ---
 
+### [Monarchy](https://github.com/Tavaressan/omarchy-monarchy-theme)
+
+[![Monarchy Preview](https://github.com/Tavaressan/omarchy-monarchy-theme/raw/main/preview.png)](https://github.com/Tavaressan/omarchy-monarchy-theme)
+Install:
+```
+omarchy-theme-install https://github.com/Tavaressan/omarchy-monarchy-theme
+```
+---
+
 ### [Monochrome](https://github.com/Swarnim114/omarchy-monochrome-theme)
 
 [![Monochrome Preview](https://manuals.omamix.org/u/monochrome-theme-GwATD6.png)](https://github.com/Swarnim114/omarchy-monochrome-theme)
