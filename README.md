@@ -293,6 +293,15 @@ omarchy-theme-install https://github.com/hipsterusername/omarchy-blueridge-dark-
 ```
 ---
 
+### [Bushkill](https://github.com/JohnnyCopenhaver/omarchy-bushkill-theme)
+
+[![Bushkill Preview](https://github.com/JohnnyCopenhaver/omarchy-bushkill-theme/raw/main/screenshot.png)](https://github.com/JohnnyCopenhaver/omarchy-bushkill-theme)
+Install:
+```
+omarchy-theme-install https://github.com/JohnnyCopenhaver/omarchy-bushkill-theme
+```
+---
+
 ### [Cobalt2](https://github.com/hoblin/omarchy-cobalt2-theme)
 
 [![Cobalt2 Preview](https://camo.githubusercontent.com/ac01ff424cf0e8a1c19c98a3d098e8e3b410c3e9af375eb1083fd774a652afc3/68747470733a2f2f686f626c2e696e2f6f6d61726368792d636f62616c74322d7468656d652d707265766965772e706e67)](https://github.com/hoblin/omarchy-cobalt2-theme)
